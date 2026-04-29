@@ -4,13 +4,8 @@ Dashboard para revisar y validar archivos JSON de seguros de viaje desde compara
 
 ## Cómo usar
 
-### Opción 1: Subir archivos por el botón "Agregar más"
-1. Haz clic en el botón **"Agregar más"** en la barra lateral izquierda
-2. Selecciona uno o múltiples archivos JSON de tu computadora
-3. Los archivos se cargarán automáticamente en el dashboard
-
-### Opción 2: Copiar archivos directamente al proyecto (recomendado para múltiples archivos)
-1. Copia tus archivos JSON a la carpeta: `/public/data`
+### Copiar archivos directamente al proyecto
+1. Copia tus archivos JSON a la carpeta: `/public`
 2. Los archivos se cargarán automáticamente cuando recargues la página
 3. Puedes tener múltiples archivos .json en esa carpeta
 
@@ -18,14 +13,14 @@ Dashboard para revisar y validar archivos JSON de seguros de viaje desde compara
 
 Los archivos JSON se deben copiar a:
 ```
-/public/data/
+/public/
 ```
 
 Por ejemplo:
 ```
-/public/data/allianz_basico.json
-/public/data/ccpp_premium.json
-/public/data/bci_mundo.json
+/public/allianz_basico.json
+/public/ccpp_premium.json
+/public/bci_mundo.json
 ```
 
 ## Funcionalidades
@@ -67,7 +62,6 @@ Por ejemplo:
 
 ## Botones y controles
 
-- **Agregar más**: Cargar más archivos JSON
 - **X (eliminar)**: Quitar un producto de la lista
 - Hacer clic en un producto: Seleccionarlo para ver detalles
 - **Expandir filas**: En las tablas, haz clic en el chevron (v) para expandir
@@ -85,7 +79,7 @@ Cuando abres la aplicación ves un producto de ejemplo "Allianz - Seguro de Viaj
 
 Para analizar tus propios productos:
 1. Descarga los JSONs de comparaonline.cl
-2. Cópialos a `/public/data/` o sube via "Agregar más"
+2. Cópialos a `/public/`
 3. Selecciona cada producto para revisar todos sus detalles
 4. Usa la pestaña "Calidad" para identificar problemas
 
