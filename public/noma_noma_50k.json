@@ -3,19 +3,34 @@
   "compania": "NOMA",
   "empresa": {
     "nombre_comercial": "NOMA",
-    "nombre_legal": "NOMA",
-    "pais_origen": null,
+    "nombre_legal": null,
+    "pais_origen": "Panamá",
     "sitio_web": null,
-    "email_contacto": "contact@quanticoservicios.com",
-    "telefono_contacto": "+1 305 6005541, +55 1142308791, +34 911986998, (+53) 52803563",
+    "email_contacto": null,
+    "telefono_contacto": null,
     "direccion": null,
     "notas": [
-      "El contacto vía WhatsApp (+507 62527067) es únicamente para chat, no disponible para llamadas, video llamadas ni notas de voz.",
-      "En caso de no lograr comunicación estando en Cuba, comunicarse a los Contactos a Nivel Mundial.",
-      "NOMA proporciona estas Condiciones Generales a la Central de Asistencias para la prestación de servicios.",
-      "Los planes de NOMA no son ni equivalen a un seguro o plan similar, ni programa de seguridad social o medicina prepagada.",
-      "Los servicios de asistencia médica cubren únicamente tratamientos de urgencia de cuadros agudos, no preexistentes salvo planes que lo contemplen.",
-      "NOMA no se responsabiliza por información difundida fuera de las cláusulas y condiciones del presente contrato."
+      "Para la obtención de los servicios el Beneficiario debe comunicarse dentro de las 24 horas; la falta de comunicación ocasiona la pérdida de los derechos a reclamar o solicitar indemnización alguna.",
+      "El contacto vía WhatsApp es únicamente para chat; no está disponible para llamadas, videollamadas ni notas de voz.",
+      "Los servicios se activan una vez sean solicitados por teléfono, correo electrónico o contactos nombrados en estas Condiciones Generales. La Central de Asistencias debe autorizar nuevas prestaciones o servicios.",
+      "Servicios provistos a través de la Central de Asistencias de NOMA.",
+      "Los planes de NOMA no son un seguro médico, ni un programa de seguridad social o medicina prepagada; cubren únicamente asistencias de urgencia en viaje.",
+      "La Central de Asistencias se reserva el derecho de grabar y auditar las conversaciones telefónicas, escritas y digitales y podrá utilizar dichos registros como medio de prueba en caso de controversias.",
+      "Los reintegros se abonan en moneda local del país de contratación tomando en cuenta la tasa de cambio al momento de la asistencia.",
+      "Plazos de procesamiento de reintegros: presentación de documentación hasta 30 días continuos desde la finalización de la vigencia del voucher; respuesta y solicitudes de documentos faltantes en plazos de 5 días; análisis en 5 días hábiles; pago en 30 días hábiles desde recepción de documentos completos; confirmación de recibido por el BENEFICIARIO en 8 días hábiles, vencido el plazo se considera confirmado.",
+      "Plan Anual Multiviajes: vigencia de 365 días; número ilimitado de viajes; por viaje no podrá permanecer más de 15, 30, 45, 60 o 90 días en el exterior según lo indicado en el plan adquirido.",
+      "Plan Larga Estadía: vigencia de 365 días; si el Beneficiario regresa a su país de origen se considera interrupción de viaje y pierde automáticamente el derecho a los días restantes.",
+      "Plazo o período de carencia: se computa por días desde la fecha de inicio de vigencia del voucher o desde el abordaje, siempre que el Beneficiario ya se encuentre fuera del lugar de residencia habitual al momento de contratación.",
+      "La Central de Asistencias de NOMA coordinará la atención necesaria para casos de COVID-19 de los beneficiarios.",
+      "Las prestaciones y beneficios por COVID-19 se encuentran sujetas al tope monetario indicado en el voucher y varían según el plan contratado.",
+      "Referencia en CCGG a La Central de Asistencias de NOMA como prestador/coordinador de las asistencias.",
+      "Servicios coordinados por La Central de Asistencias de NOMA.",
+      "Subrogación: NOMA queda subrogada en los derechos del beneficiario contra terceros hasta el monto del siniestro. La subrogación no se efectuará, salvo dolo, cuando el siniestro haya sido causado por descendientes, cónyuge, pareja en unión de hecho, otros parientes que convivan permanentemente o personas por las que el beneficiario deba responder civilmente. El beneficiario o sus causahabientes están obligados a realizar, a expensas de NOMA, los actos necesarios para que NOMA ejerza sus derechos por subrogación.",
+      "Deducible / franquicia: Si el plan contempla deducible o franquicia, el beneficiario debe abonar el monto estipulado para servicios médicos (odontología, asistencia domiciliaria, centros médicos, hospitalización, estudios especiales, repatriaciones, etc.). En una segunda utilización por hecho distinto, el beneficiario deberá abonar nuevamente el deducible al momento de ser atendido. El pago podrá realizarse por depósito bancario al prestador asignado o directamente a NOMA; la modalidad la determina La Central.",
+      "Caducidad de reclamaciones: Toda reclamación debe formularse por escrito dentro del plazo improrrogable de treinta (30) días calendario contados desde la fecha del suceso. Transcurrido ese plazo se producirá la caducidad de los derechos no ejercidos oportunamente.",
+      "Circunstancias excepcionales / fuerza mayor: NOMA y su red de prestadores no serán responsables por retrasos o incumplimientos inimputables debidos a catástrofes naturales, huelgas, guerras, invasiones, sabotaje, hostilidades, rebelión, insurrección, terrorismo, manifestaciones populares, radioactividad u otras causas de fuerza mayor. Cuando sea posible, NOMA ejecutará sus compromisos dentro del menor plazo factible.",
+      "Recurso y responsabilidad: NOMA puede exigir el reembolso de gastos efectuados indebidamente. NOMA no será responsable por daños, perjuicios, lesiones o enfermedades causadas por personas o profesionales designados a solicitud del beneficiario; dichas personas serán tenidas como agentes del beneficiario sin recurso contra NOMA.",
+      "Jurisdicción: Las cuestiones contractuales se someten a los tribunales de NOMA en la ciudad de Panamá, República de Panamá."
     ],
     "fuente": "CCGG"
   },
@@ -30,8 +45,16 @@
     "paises_excluidos": [],
     "excluye_pais_residencia": true,
     "notas": [
-      "Límite de edad: 74 años / 75 hasta 85 años, 50% más en neta",
-      "Máximos días por viaje: 90 días"
+      "Contactos a Nivel Mundial listados en las Condiciones Generales.",
+      "En caso de no lograr comunicación estando en Cuba, comunicarse a los Contactos a Nivel Mundial.",
+      "Para vouchers nacionales, las prestaciones se brindarán fuera del radio de 100 kilómetros del domicilio real del beneficiario.",
+      "Prestación sujeta a existencia de infraestructura pública o privada y a la legislación regional del país de destino.",
+      "Se exceptúan los países involucrados en enfrentamientos bélicos internos o internacionales.",
+      "Las prestaciones quedan sujetas a la legislación y/o jurisdicción de la zona geográfica donde se encuentre el beneficiario.",
+      "El plan está orientado a cubrir enfermedades o lesiones que ocurran durante el viaje fuera del país de residencia y/o del de emisión del plan.",
+      "Cobertura geográfica indicada como: Mundial, excepto país de residencia.",
+      "Límite de edad informado en voucher: 74 años / 75 hasta 85 años, 50% más en neta.",
+      "Máxima vigencia por viaje informada: 90 Días."
     ],
     "fuente": "Ambos"
   },
@@ -40,23 +63,31 @@
       "id_exclusion": "preexistencias_cronicas_recurrentes",
       "categoria": "medica",
       "nombre": "Enfermedades preexistentes, cronicas o recurrentes",
-      "descripcion": "Excluidos procesos posteriores a la primera atención por enfermedad preexistente, crónica o recurrente, sus agudizaciones, secuelas y consecuencias, salvo excepciones indicadas en planes específicos.",
+      "descripcion": "Procesos, agudizaciones, secuelas y consecuencias de enfermedades preexistentes, crónicas o recurrentes; todo proceso posterior a la primera atención relacionado con una enfermedad preexistente queda excluido.",
       "inclusion": "Incluido",
       "condiciones": [
-        "Solo se brinda primera asistencia en caso de presunta enfermedad preexistente.",
-        "No cobertura para estabilización, control, tratamiento, hospitalización y medicamentos relacionados con enfermedad preexistente.",
-        "No reposición de medicamentos de uso crónico ni citas de control y seguimiento."
+        "Las enfermedades preexistentes se definen como procesos con origen anterior a la fecha de inicio de vigencia del plan.",
+        "La cobertura para emergencias por condición preexistente se proporcionará únicamente si el beneficiario contrató específicamente dicha cobertura y solo hasta el monto especificado en el voucher.",
+        "Se cubre exclusivamente la primera atención médica básica en el episodio agudo que no pueda aplazarse hasta el retorno al país de residencia.",
+        "Si se solicita asistencia por una presunta enfermedad preexistente, NOMA brindará únicamente la primera asistencia; posteriores asistencias derivadas de la enfermedad preexistente quedarán excluidas.",
+        "Reposición de medicamentos de uso crónico y citas de control y seguimiento de enfermedad quedan fuera de la cobertura."
       ],
-      "excepciones": [],
+      "excepciones": [
+        "No se cubre el inicio o la continuación de tratamientos, procedimientos o conductas diagnósticas no relacionados con el episodio agudo e impredecible."
+      ],
       "fuente": "CCGG"
     },
     {
       "id_exclusion": "atencion_no_autorizada",
       "categoria": "operativa",
       "nombre": "Atencion o gastos no autorizados",
-      "descripcion": "Excluidos gastos, tratamientos, profesionales, centros médicos o medicamentos no coordinados o autorizados por la central de asistencia cuando se exige autorización previa.",
+      "descripcion": "Prestaciones, gastos, tratamientos, profesionales, centros médicos o medicamentos no coordinados o autorizados por la Central de Asistencias cuando el contrato exige autorización previa quedan excluidos.",
       "inclusion": "Incluido",
-      "condiciones": [],
+      "condiciones": [
+        "El BENEFICIARIO debe solicitar y obtener autorización de La Central de Asistencias antes de comprometer cualquier gasto relacionado con los beneficios del voucher.",
+        "Si no es posible comunicarse por razones involuntarias, el BENEFICIARIO podrá recurrir al servicio médico de emergencia próximo y deberá notificar la incidencia dentro de las 24 horas (salvo coberturas con plazos particulares), suministrando constancias y comprobantes originales.",
+        "No notificar dentro de las 24 horas acarrea la pérdida automática del derecho a reclamar o solicitar indemnización alguna."
+      ],
       "excepciones": [],
       "fuente": "CCGG"
     },
@@ -64,7 +95,7 @@
       "id_exclusion": "tratamientos_alternativos_no_convencionales",
       "categoria": "medica",
       "nombre": "Tratamientos alternativos o no convencionales",
-      "descripcion": "Excluidos tratamientos homeopáticos, acupuntura, quiropraxia, fisioterapia, kinesioterapia, podología, curas termales, terapias ocupacionales o medicina alternativa.",
+      "descripcion": "Tratamientos homeopáticos, acupuntura, quiropraxia, fisioterapia, kinesioterapia, podología, curas termales, terapias ocupacionales o medicina alternativa quedan excluidos.",
       "inclusion": "Incluido",
       "condiciones": [],
       "excepciones": [],
@@ -74,7 +105,7 @@
       "id_exclusion": "actos_ilicitos_dolosos_o_rinas",
       "categoria": "conducta",
       "nombre": "Actos ilicitos, dolosos, rinas o mala fe",
-      "descripcion": "Se excluyen actos mal intencionados y/o de mala fe del beneficiario o sus apoderados, así como eventos derivados de rinas, peleas, huelgas, tumultos o vandalismo con participación activa del beneficiario.",
+      "descripcion": "Se excluyen eventos derivados de actos ilícitos, dolosos, fraudulentos o de mala fe, suministro de información falsa, rinas, peleas, huelgas, tumultos o vandalismo con participación activa del beneficiario.",
       "inclusion": "Incluido",
       "condiciones": [],
       "excepciones": [
@@ -86,17 +117,17 @@
       "id_exclusion": "alcohol_drogas_o_medicacion_sin_prescripcion",
       "categoria": "conducta",
       "nombre": "Alcohol, drogas o medicacion sin prescripcion",
-      "descripcion": "Enfermedades, lesiones o estados patologicos producidos por ingesta de alcohol, drogas, narcoticos, toxicos o medicamentos utilizados sin prescripcion medica.",
-      "inclusion": "No incluido",
+      "descripcion": "No se hará cargo de repatriación funeraria ni de determinados servicios cuando la muerte haya sido producida por narcóticos o estupefacientes.",
+      "inclusion": "Incluido",
       "condiciones": [],
       "excepciones": [],
-      "fuente": null
+      "fuente": "CCGG"
     },
     {
       "id_exclusion": "protesis_ortesis_y_ayudas_mecanicas",
       "categoria": "medica",
       "nombre": "Protesis, ortesis y ayudas mecanicas",
-      "descripcion": "Excluidos gastos por prótesis, ortesis, lentes, audífonos, sillas de ruedas, muletas, anteojos, fajas, tobilleras, muñequeras, rodilleras, bastones, andaderas, botas ortopédicas, salvo colocación de inmovilizaciones tradicionales como yesos y férulas.",
+      "descripcion": "Gastos por prótesis, ortesis, lentes, audífonos, férulas, muletas, sillas de ruedas y otras ayudas mecánicas quedan excluidos salvo excepción expresa; se permite colocación de inmovilizaciones tradicionales como yesos y férulas de yeso y vendajes elásticos.",
       "inclusion": "Incluido",
       "condiciones": [],
       "excepciones": [],
@@ -106,11 +137,19 @@
       "id_exclusion": "deportes_riesgo_competencia_o_profesionales",
       "categoria": "deportes",
       "nombre": "Deportes de riesgo, competencias o practica profesional",
-      "descripcion": "Se excluyen eventos ocurridos como consecuencia de entrenamientos, prácticas sencillas o participación activa o no activa en competencias deportivas profesionales, amateur o recreativas, salvo planes con cobertura Sports que se rigen por exclusiones particulares para deportes específicos como Ski y Snowboard fuera de pistas reglamentarias, motociclismo, automovilismo, torrentismo, bobsleigh, luge olímpica, caza de animales, montañismo, senderismo, trekking, alpinismo y andinismo a más de 3000 msnm, skeleton, ciclismo en pista, ruta, montaña, BMX sin casco, espeleología, deportes aéreos salvo paracaidismo, aladeltismo y parapente, exploración de cavernas, bungee jumping, buceo autónomo a más de 30 metros o que requiera descompresión, tiro al arco, tiro fusil, escalada, puenting, boxeo, karate do, kung fu, judo y cualquier deporte de combate. Se excluye la práctica profesional de deportes, entendiendo como profesionales quienes viven de su deporte o reciben patrocinio o remuneración.",
+      "descripcion": "Se excluyen eventos ocurridos como consecuencia de entrenamientos, prácticas sencillas o participación (activa o no) en competencias deportivas, así como la práctica profesional del deporte.",
       "inclusion": "Incluido",
-      "condiciones": [],
+      "condiciones": [
+        "Asistencias derivadas de entrenamiento de índole profesional están excluidas.",
+        "Quedan excluidas disciplinas fuera de pistas y/o áreas reglamentarias (ejemplos en CCGG: Bobsleigh, Luge Olímpica, Caza de animales, Kite Buggy, Kite surf, Karts, Montañismo/Trekking/Alpinismo por encima de 3000 msnm, Skeleton, BMX, Deportes aéreos salvo paracaidismo/ala delta/parapente, Bungee Jumping, buceo autónomo a más de 12 m que requiera compresión/descompresión, Tiro al arco, Tiro fusil, Escalada, Fútbol Americano, Puenting, Boxeo, Karate Do, Kung Fu, Judo y cualquier deporte de combate).",
+        "Se excluyen actividades deportivas o recreativas donde el beneficiario no cuente con la cobertura contratada en su voucher.",
+        "Se excluyen eventos consecuentes a actividades de motociclismo y automovilismo en cualquier presentación deportiva.",
+        "La exclusión detalla deportes y actividades específicamente no cubiertas: Ski y Snowboard fuera de pistas reglamentarias; Motociclismo; Automovilismo; Torrentismo; Bobsleigh; Luge Olímpica; Caza de animales; Montañismo; senderismo; trekking; Alpinismo y Andinismo a más de 3000 msnm; Skeleton; Bicicletas (ciclismo en pista, ciclismo en ruta, ciclismo de montaña, BMX y/o sin casco de seguridad); Espeleología; deportes aéreos (salvo paracaidismo, aladeltismo, parapente); exploración de cavernas; Bungee Jumping; buceo autónomo a más de 30 metros de profundidad o que requiera descompresión; Tiro al arco; Tiro fusil; Escalada; Puenting; Boxeo; Karate Do; Kung fu; Judo y cualquier deporte de combate.",
+        "Se excluye la práctica de deportes por profesionales en competencias o entrenamientos (se consideran profesionales quienes viven de la práctica del deporte o reciben patrocinio, sponsors o remuneración)."
+      ],
       "excepciones": [
-        "Puede aplicar si el plan o upgrade contempla deportes."
+        "Puede aplicar si el plan o upgrade contempla deportes.",
+        "Salvo los planes que contemplen la cobertura 'Sports', los cuales se rigen por exclusiones particulares (por ejemplo, se menciona una exclusión particular sobre Ski y Snowboard fuera de pistas reglamentarias)."
       ],
       "fuente": "CCGG"
     },
@@ -118,9 +157,11 @@
       "id_exclusion": "embarazo_parto_aborto_y_controles",
       "categoria": "medica",
       "nombre": "Embarazo, parto, aborto y controles ginecologicos",
-      "descripcion": "Excluidos diagnóstico, seguimiento, tratamiento o interrupción voluntaria del embarazo, parto y cesárea de curso normal y a término, controles ginecológicos, métodos anticonceptivos, abortos provocados y gastos relacionados con el recién nacido.",
+      "descripcion": "Partos, embarazo normal, controles ginecológicos, abortos y sus exámenes relacionados, así como tratamientos asociados a embarazo normal y a término quedan excluidos salvo excepciones o cobertura expresa en el plan; estados de embarazo y controles relacionados también excluidos.",
       "inclusion": "Incluido",
-      "condiciones": [],
+      "condiciones": [
+        "Aplican límites de semana gestacional indicados en el contrato para determinar cobertura o exclusión."
+      ],
       "excepciones": [
         "Puede aplicar si el plan o upgrade contempla complicaciones de embarazo."
       ],
@@ -130,7 +171,7 @@
       "id_exclusion": "salud_mental_psiquiatrica_o_psicologica",
       "categoria": "medica",
       "nombre": "Salud mental, psiquiatrica o psicologica",
-      "descripcion": "Excluidas enfermedades mentales, psiquiátricas o psicológicas, crisis nerviosas, ansiedad, depresión, trastornos del sueño o alimentarios y sus tratamientos, salvo beneficio expresamente cubierto.",
+      "descripcion": "Enfermedades mentales, psiquiátricas o psicológicas, crisis nerviosas, crisis de pánico, trastornos depresivos, trastornos del sueño, trastornos alimentarios y sus tratamientos quedan excluidos salvo beneficio expresamente cubierto.",
       "inclusion": "Incluido",
       "condiciones": [],
       "excepciones": [],
@@ -140,7 +181,7 @@
       "id_exclusion": "vih_sida_ets_y_enfermedades_venereas",
       "categoria": "medica",
       "nombre": "VIH, SIDA, ETS y enfermedades venereas",
-      "descripcion": "Excluidos SIDA, VIH, enfermedades de transmisión sexual o venéreas, sus secuelas, consecuencias, exámenes o tratamientos.",
+      "descripcion": "El Síndrome de Inmunodeficiencia Adquirida (SIDA), virus de inmunodeficiencia humana (VIH) en todas sus formas, así como enfermedades de transmisión sexual y prestaciones, exámenes y tratamientos relacionados, quedan excluidos.",
       "inclusion": "Incluido",
       "condiciones": [],
       "excepciones": [],
@@ -150,7 +191,7 @@
       "id_exclusion": "epidemias_pandemias_endemias_sin_cumplimiento_sanitario",
       "categoria": "medica",
       "nombre": "Epidemias, pandemias o endemias sin cumplimiento sanitario",
-      "descripcion": "No cubre enfermedades epidémicas, pandémicas o endémicas ni asistencias relacionadas cuando el beneficiario no haya seguido restricciones, profilaxis, vacunación o indicaciones sanitarias aplicables.",
+      "descripcion": "Asistencias relacionadas con enfermedades endémicas, epidémicas o pandemias quedan excluidas cuando el beneficiario no haya seguido restricciones de viaje, profilaxis, vacunación o indicaciones sanitarias aplicables; salvo planes que contemplen cobertura por epidemia, y salvo el COVID-19 para los planes que así lo contemplen.",
       "inclusion": "Incluido",
       "condiciones": [],
       "excepciones": [
@@ -162,9 +203,12 @@
       "id_exclusion": "catastrofes_fuerza_mayor_radiacion_o_nuclear",
       "categoria": "fuerza_mayor",
       "nombre": "Catastrofes, fuerza mayor, radiacion o eventos nucleares",
-      "descripcion": "Se excluyen eventos y consecuencias derivados de fuerzas naturales como tsunamis, temblores, terremotos, tormentas, huracanes, ciclones, inundaciones, radiación nuclear, radioactividad y otros fenómenos extraordinarios o considerados desastres nacionales, regionales o locales.",
+      "descripcion": "Se excluyen eventos y consecuencias derivados de fuerzas naturales o extraordinarias: tsunamis, temblores, terremotos, tormentas, tempestades, huracanes, ciclones, inundaciones, sismos, radiación nuclear, radioactividad y otros fenómenos naturales o no considerados catástrofe o desastre; la lista es enunciativa y no taxativa.",
       "inclusion": "Incluido",
-      "condiciones": [],
+      "condiciones": [
+        "Cuando intervengan estos elementos, NOMA intentará ejecutar sus compromisos dentro del menor plazo posible y una vez sea factible la prestación.",
+        "No serán exigibles responsabilidades por casos fortuitos o fuerza mayor, incluyendo huelgas, guerras, invasiones, sabotaje, hostilidades, rebelión, insurrección, terrorismo, manifestaciones populares o radioactividad."
+      ],
       "excepciones": [],
       "fuente": "CCGG"
     },
@@ -172,7 +216,7 @@
       "id_exclusion": "suicidio_o_lesiones_autoinfligidas",
       "categoria": "conducta",
       "nombre": "Suicidio o lesiones autoinfligidas",
-      "descripcion": "Se excluye el suicidio, intento de suicidio o lesiones autoinfligidas por el beneficiario o su familia, así como actos de manifiesta irresponsabilidad o imprudencia grave del beneficiario.",
+      "descripcion": "No se cubre el suicidio, intento de suicidio ni lesiones autoinfligidas por el beneficiario y/o su familia, ni actos de manifiesta irresponsabilidad o imprudencia grave del beneficiario.",
       "inclusion": "Incluido",
       "condiciones": [],
       "excepciones": [],
@@ -182,7 +226,7 @@
       "id_exclusion": "guerra_terrorismo_o_alteracion_orden_publico",
       "categoria": "fuerza_mayor",
       "nombre": "Guerra, terrorismo o alteracion grave del orden publico",
-      "descripcion": "Se excluyen eventos derivados de actos de guerra, invasión, terrorismo, hostilidades, guerra civil, rebelión, insurrección, motines, manifestaciones o alteración grave del orden público, incluyendo la participación personal o como miembro de organización civil o militar.",
+      "descripcion": "Se excluyen eventos como consecuencia de actos de guerra (declarada o no), invasión, hostilidades, terrorismo, rebelión, insurrección, motines, tumultos, manifestaciones o alteración grave del orden público, incluyendo la intervención del beneficiario en dichos actos.",
       "inclusion": "Incluido",
       "condiciones": [],
       "excepciones": [],
@@ -192,19 +236,21 @@
       "id_exclusion": "chequeos_rutina_preventivos_o_seguimiento",
       "categoria": "medica",
       "nombre": "Chequeos de rutina, preventivos o seguimiento",
-      "descripcion": "Examenes de rutina, chequeos preventivos, controles, seguimiento de tratamientos, estudios diagnosticos no vinculados a emergencia cubierta o reposicion de medicamentos de uso habitual.",
-      "inclusion": "No incluido",
+      "descripcion": "Exámenes de rutina, chequeos preventivos, controles y seguimiento de tratamientos, así como estudios diagnósticos no vinculados a una emergencia cubierta, están excluidos.",
+      "inclusion": "Incluido",
       "condiciones": [],
       "excepciones": [],
-      "fuente": null
+      "fuente": "CCGG"
     },
     {
       "id_exclusion": "gastos_extras_hotel_restaurante_transporte_o_acompanantes",
       "categoria": "gastos",
       "nombre": "Gastos extras, hotel, restaurante, transporte o acompanantes",
-      "descripcion": "Excluidos gastos extras de hotel, restaurante, lavandería, minibar, telefonía, taxis, transportes, desplazamientos o acompañantes no expresamente cubiertos o autorizados.",
+      "descripcion": "Se excluyen gastos extras de hotel, restaurante, lavandería, minibar, telefonía, taxis, transportes, desplazamientos o acompañantes no expresamente cubiertos o autorizados.",
       "inclusion": "Incluido",
-      "condiciones": [],
+      "condiciones": [
+        "No se cubren los gastos correspondientes a transportes públicos o privados o desplazamientos pagados por el beneficiario desde su hotel o lugar hasta el centro hospitalario, centro médico o consultorio, salvo aquellos centros médicos que se encuentren a más de 15 km y siempre que hayan sido expresamente autorizados (escrita o verbalmente) por la Central de Asistencias."
+      ],
       "excepciones": [],
       "fuente": "CCGG"
     },
@@ -212,17 +258,17 @@
       "id_exclusion": "enfermedades_congenitas_geneticas_o_deformaciones",
       "categoria": "medica",
       "nombre": "Enfermedades congenitas, geneticas o deformaciones",
-      "descripcion": "Patologias congenitas, geneticas, fenotipicas, deformaciones conocidas o no, sus controles, estudios, secuelas o consecuencias.",
-      "inclusion": "No incluido",
+      "descripcion": "Patologías congénitas, genéticas o deformaciones, sus controles, estudios, secuelas o consecuencias quedan excluidas.",
+      "inclusion": "Incluido",
       "condiciones": [],
       "excepciones": [],
-      "fuente": null
+      "fuente": "CCGG"
     },
     {
       "id_exclusion": "aeronaves_no_autorizadas_o_transporte_no_publico",
       "categoria": "transporte",
       "nombre": "Aeronaves no autorizadas o transporte no publico",
-      "descripcion": "Se excluyen lesiones o accidentes derivados de cualquier tipo de transporte no destinado ni autorizado como transporte público regular, incluyendo vuelos fletados particulares.",
+      "descripcion": "Se excluyen lesiones o accidentes derivados de transporte no destinado ni autorizado como transporte público regular, incluyendo vuelos fletados o particulares.",
       "inclusion": "Incluido",
       "condiciones": [],
       "excepciones": [],
@@ -232,7 +278,7 @@
       "id_exclusion": "riesgos_profesionales_o_laborales",
       "categoria": "laboral",
       "nombre": "Riesgos profesionales o laborales",
-      "descripcion": "Excluidos eventos derivados de trabajos, tareas o actividades laborales de riesgo profesional, accidentes laborales, enfermedades profesionales o esfuerzos repetitivos relacionados al trabajo.",
+      "descripcion": "Eventos derivados de trabajos, tareas o actividades con riesgo profesional, accidentes laborales o enfermedades profesionales quedan excluidos.",
       "inclusion": "Incluido",
       "condiciones": [],
       "excepciones": [],
@@ -242,7 +288,7 @@
       "id_exclusion": "situacion_migratoria_o_laboral_ilegal",
       "categoria": "legal",
       "nombre": "Situacion migratoria o laboral ilegal",
-      "descripcion": "Se excluyen asistencias solicitadas por beneficiarios en situación migratoria o laboral ilegal, trabajo no declarado o actividades no autorizadas por autoridades locales.",
+      "descripcion": "No se cubren asistencias solicitadas por beneficiarios en situación migratoria o laboral ilegal, incluyendo trabajo no declarado en el país desde donde se requiere la asistencia o estudiantes sorprendidos trabajando sin la autorización local correspondiente.",
       "inclusion": "Incluido",
       "condiciones": [],
       "excepciones": [],
@@ -252,9 +298,12 @@
       "id_exclusion": "viaje_para_tratamiento_o_contra_indicacion_medica",
       "categoria": "medica",
       "nombre": "Viaje para tratamiento o contra indicacion medica",
-      "descripcion": "Excluidos eventos cuando el motivo del viaje sea recibir tratamiento médico en destino, continuar tratamiento de enfermedad de base, comprar medicamentos o viajar contra recomendación médica.",
+      "descripcion": "Asistencias cuando el motivo del viaje sea recibir tratamiento médico en destino, continuar tratamiento de enfermedad de base, comprar medicamentos o viajar contra recomendación médica quedan excluidas; NOMA se reserva el derecho de investigar la conexión del viaje con una dolencia previa.",
       "inclusion": "Incluido",
-      "condiciones": [],
+      "condiciones": [
+        "No se ampara la continuación de tratamientos o cirugías previas al viaje (o inicio de vigencia del voucher).",
+        "El beneficiario debe consultar con su médico y obtener consentimiento por escrito para viajar si se sometió a un procedimiento médico en los últimos 90 días."
+      ],
       "excepciones": [],
       "fuente": "CCGG"
     },
@@ -262,27 +311,27 @@
       "id_exclusion": "hernias_y_consecuencias",
       "categoria": "medica",
       "nombre": "Hernias y sus consecuencias",
-      "descripcion": "Hernias de cualquier tipo, sus complicaciones, tratamientos o consecuencias, cuando el contrato las excluye expresamente.",
-      "inclusion": "No incluido",
+      "descripcion": "Hernias de cualquier tipo, sus complicaciones, tratamientos o consecuencias quedan excluidas cuando el contrato las excluye expresamente.",
+      "inclusion": "Incluido",
       "condiciones": [],
       "excepciones": [],
-      "fuente": null
+      "fuente": "CCGG"
     },
     {
       "id_exclusion": "secuestro_o_intento",
       "categoria": "seguridad",
       "nombre": "Secuestro o intento de secuestro",
-      "descripcion": "Eventos derivados de secuestro o intento de secuestro.",
-      "inclusion": "No incluido",
+      "descripcion": "Se excluyen eventos derivados de secuestro o intento de secuestro.",
+      "inclusion": "Incluido",
       "condiciones": [],
       "excepciones": [],
-      "fuente": null
+      "fuente": "CCGG"
     },
     {
       "id_exclusion": "elementos_financieros_o_valores",
       "categoria": "objetos_personales",
       "nombre": "Elementos financieros, dinero o valores",
-      "descripcion": "No se cubrirá el robo, hurto o pérdida de cualquier elemento financiero, dinero, tarjetas, documentos financieros, valores o cheques.",
+      "descripcion": "No se cubrirá el robo, hurto o pérdida de cualquier elemento financiero (dinero, valores, tarjetas, cheques u otros elementos financieros).",
       "inclusion": "Incluido",
       "condiciones": [],
       "excepciones": [],
@@ -455,18 +504,22 @@
       "categoria": "asistencia_medica",
       "nombre": "Tope máximo global médico",
       "descripcion": "Monto máximo global o tope principal de asistencia médica indicado por el plan.",
-      "inclusion": null,
-      "valor_completo": null,
-      "tipo_valor": null,
-      "valor": null,
-      "medida": null,
-      "alcance": null,
+      "inclusion": "Incluido",
+      "valor_completo": "USD 50.000",
+      "tipo_valor": "USD",
+      "valor": 50000,
+      "medida": "USD",
+      "alcance": "Asistencia médica por accidente / Medical Assistance due to accident",
       "limites": [],
       "condiciones": [
-        "Los servicios y beneficios se limitan al marco temporal y topes indicados en el voucher y plan contratado."
+        "Aplica cuando un evento involucre a más de un beneficiario que viaje con productos de inclusión, mayoreo o categoría Low Cost.",
+        "El importe se distribuirá entre los beneficiarios a prorrata.",
+        "Se mantiene el límite máximo por beneficiario que corresponda según voucher.",
+        "Los límites de gastos de asistencia médica por accidente o muerte indicados en cláusulas anteriores no son acumulativos; se aplica uno solo según la causa.",
+        "Si la suma de indemnizaciones excede el tope, cada indemnización individual será efectuada a prorrata."
       ],
       "upgrades_ids": [],
-      "fuente": "CCGG",
+      "fuente": "Ambos",
       "exclusiones": []
     },
     {
@@ -481,23 +534,19 @@
       "valor": 50000,
       "medida": "USD",
       "alcance": "Asistencia médica por COVID-19",
-      "limites": [],
+      "limites": [
+        {
+          "descripcion": "Las prestaciones por COVID-19 están sujetas al tope monetario indicado en el plan o voucher."
+        }
+      ],
       "condiciones": [
-        "Cobertura válida solo si el contagio ocurre estando en destino y con plan vigente sin carencia.",
-        "Test COVID-19 debe ser aprobado y derivado por la Central de Asistencias.",
-        "Gastos hospitalarios cubiertos hasta los montos indicados en el plan.",
-        "Cobertura cesa al finalizar el periodo de cobertura o al agotarse el tope contratado.",
-        "No se cubren gastos hospitalarios por enfermedades preexistentes salvo planes que contemplen preexistencias.",
-        "Gastos por respirador mecánico cubiertos solo si ordenado y autorizado por cuerpo médico.",
-        "No se cubren costos de adquisición de respirador mecánico."
+        "Aplica solo si el contagio del beneficiario sucediese estando en destino y habiendo iniciado validez el plan contratado o fuera del periodo de carencia.",
+        "Todos los beneficios marcados con (**) se encuentran incluidos dentro del tope monetario indicado en el voucher, según el plan adquirido.",
+        "Las prestaciones varían dependiendo del plan contratado y están sujetas a la legislación/jurisdicción del lugar donde se encuentre el beneficiario."
       ],
       "upgrades_ids": [],
       "fuente": "Ambos",
-      "exclusiones": [
-        "No se cubren vacunas contra COVID-19 ni procedimientos preventivos o masivos.",
-        "No se cubren pruebas para COVID-19 por requisitos migratorios o turísticos.",
-        "No se cubren efectos secundarios, infecciones o alergias derivadas de vacunas contra COVID-19."
-      ]
+      "exclusiones": []
     },
     {
       "id_condicion": "covid_reprogramacion_vuelo",
@@ -542,34 +591,34 @@
       "nombre": "Alimentación y alojamiento por cuarentena o aislamiento COVID-19",
       "descripcion": "Gastos adicionales de alimentación, alojamiento u hotel por cuarentena, reposo o aislamiento médico asociado a COVID-19 cuando el voucher lo indique.",
       "inclusion": "Incluido",
-      "valor_completo": "USD 1.000",
+      "valor_completo": "Resto del mundo USD 1.000 / Costa Rica USD 2.000",
       "tipo_valor": "USD",
-      "valor": 1000,
+      "valor": 2000,
       "medida": "USD",
-      "alcance": "Hotel por cuarentena médica COVID-19 resto del mundo",
+      "alcance": "Alimentación y alojamiento por cuarentena o aislamiento COVID-19",
       "limites": [
         {
-          "descripcion": "Costa Rica USD 2.000"
+          "descripcion": "Resto del mundo: USD 1.000"
+        },
+        {
+          "descripcion": "Costa Rica: USD 2.000"
         }
       ],
       "condiciones": [
         "Puede tener tope específico o aplicar el mínimo exigido por la autoridad del país de destino.",
-        "El aislamiento debe ser prescripto por médico tratante y acordado con el departamento médico de la Central de Asistencias y autoridades sanitarias locales.",
-        "El periodo a reintegrar debe ser posterior a la fecha original de vencimiento del voucher e impedir el regreso al domicilio o país de residencia.",
-        "El beneficiario debe haber sido asistido médicamente con autorización de la Central de Asistencias.",
-        "Presentar prueba PCR molecular positiva y notificar a la Central de Asistencias en máximo 24 horas posteriores al conocimiento del contagio.",
-        "La notificación debe efectuarse durante la validez del voucher.",
-        "El beneficio cubre solo el costo de la habitación, sin alimentación ni otros gastos como lavandería, llamadas (excepto a la Central), minibar, etc.",
-        "Si el resultado de una prueba dentro de los 14 días es negativo, la cobertura termina inmediatamente.",
-        "El reembolso se realiza solo cuando haya finalizado la reserva pagada.",
-        "Si dos o más beneficiarios comparten habitación y están diagnosticados, el reembolso es por el tope de uno solo."
+        "Cobertura activada únicamente si el BENEFICIARIO presenta diagnóstico positivo de COVID-19 por prueba PCR molecular.",
+        "El BENEFICIARIO debe haber sido asistido médicamente con autorización de La Central de Asistencias.",
+        "Notificar y solicitar la cobertura a La Central de Asistencias en un plazo no mayor a 24 horas posteriores al conocimiento del contagio; la notificación debe efectuarse durante la validez del voucher.",
+        "El periodo a reintegrar por concepto de hotel debe ser posterior a la fecha original de vencimiento del voucher y debe impedir el regreso al domicilio o país de residencia habitual.",
+        "Si durante los 14 días aprobados el BENEFICIARIO obtiene prueba negativa, la cobertura culmina inmediatamente.",
+        "Se asumirá únicamente el costo de la habitación; no incluye alimentación, lavandería, llamadas (salvo a La Central de Asistencias), minibar u otros gastos similares.",
+        "La realización de la prueba para activación de la cobertura no será asumida por NOMA.",
+        "Si dos o más BENEFICIARIOS diagnosticados comparten la misma habitación, el reembolso se realizará por el tope de cobertura de uno de los beneficiarios registrado en la reserva.",
+        "Los Gastos de Hotel por Cuarentena serán reembolsados por NOMA únicamente cuando haya finalizado la reserva previamente pagada por el BENEFICIARIO."
       ],
       "upgrades_ids": [],
       "fuente": "Ambos",
-      "exclusiones": [
-        "No contempla cuarentena preventiva.",
-        "No se asume costo de pruebas o tests para activación de cobertura."
-      ]
+      "exclusiones": []
     },
     {
       "id_condicion": "covid_cremacion_repatriacion_restos",
@@ -577,21 +626,21 @@
       "categoria": "covid",
       "nombre": "Cremación y repatriación de restos por COVID-19",
       "descripcion": "Gastos de cremación, traslado de cenizas o repatriación de restos cuando el fallecimiento sea por COVID-19 y el voucher lo indique.",
-      "inclusion": null,
-      "valor_completo": "NOMA reintegrará los gastos correspondientes a la cremación del cuerpo hasta el tope de cobertura indicado en el plan de asistencia contratado por esta patología, siempre que se solicite a La Central de Asistencias dentro de las 48 horas siguientes al fallecimiento y las autoridades sanitarias locales lo permitan.",
+      "inclusion": "No incluido",
+      "valor_completo": "No aplica / do not apply",
       "tipo_valor": null,
       "valor": null,
       "medida": null,
-      "alcance": null,
+      "alcance": "Cremación y repatriación de restos por COVID-19",
       "limites": [],
       "condiciones": [
         "Debe solicitarse dentro del plazo y bajo protocolos sanitarios del país donde ocurra el fallecimiento.",
-        "Solicitud a La Central de Asistencias dentro de las 48 horas siguientes al fallecimiento.",
-        "Cumplimiento de protocolos de seguridad y salud de cada país.",
-        "Diagnóstico positivo por COVID-19 del beneficiario."
+        "Beneficiario diagnosticado positivo por COVID-19.",
+        "Solicitud de la cremación presentada a La Central de Asistencias dentro de las 48 horas siguientes al fallecimiento.",
+        "Las autoridades sanitarias locales deben permitir la cremación conforme a protocolos sanitarios."
       ],
       "upgrades_ids": [],
-      "fuente": "CCGG",
+      "fuente": "Ambos",
       "exclusiones": []
     },
     {
@@ -605,18 +654,10 @@
       "tipo_valor": "USD",
       "valor": 50000,
       "medida": "USD",
-      "alcance": "Asistencia médica por enfermedad no preexistente",
+      "alcance": "Asistencia médica por enfermedad",
       "limites": [],
       "condiciones": [
-        "La enfermedad debe ser posterior al inicio del voucher y manifestarse antes de su vencimiento.",
-        "No cubre enfermedades preexistentes salvo planes que lo contemplen.",
-        "No cubre procedimientos médicos electivos, chequeos de rutina, tratamientos benignos o exámenes no relacionados con emergencia médica.",
-        "La asistencia médica por enfermedad cubre cuadros agudos y súbitos que impidan la continuación del viaje.",
-        "Incluye consulta médica telefónica, telemedicina, médico a domicilio, consultas médicas, atención por especialistas, exámenes médicos complementarios, hospitalización, intervenciones quirúrgicas urgentes y terapia intensiva.",
-        "Intervenciones quirúrgicas electivas o programadas que no impidan la continuación normal del viaje no están incluidas.",
-        "La Central de Asistencias debe autorizar todos los servicios médicos y coordinar la atención.",
-        "En caso de repatriación sanitaria, el beneficiario está obligado a aceptar la solución propuesta para no perder beneficios.",
-        "La cobertura cesa cuando el beneficiario regresa a su lugar de residencia o expira el período de validez del plan, salvo excepciones."
+        "Tratamiento limitado a urgencias de cuadro agudo y súbito que impidan la continuación del viaje."
       ],
       "upgrades_ids": [],
       "fuente": "Ambos",
@@ -636,15 +677,7 @@
       "alcance": "Asistencia médica por accidente",
       "limites": [],
       "condiciones": [
-        "El accidente debe ser imprevisible e inesperado durante la vigencia del voucher.",
-        "La asistencia médica por accidente cubre lesiones o dolencias provocadas directamente por agentes externos, violentos y visibles, súbitos y fuera de control.",
-        "El tratamiento incluye consulta médica telefónica, telemedicina, médico a domicilio, consultas médicas, atención por especialistas, exámenes médicos complementarios, hospitalización, intervenciones quirúrgicas urgentes y terapia intensiva.",
-        "Intervenciones quirúrgicas electivas o programadas que no impidan la continuación normal del viaje no están incluidas.",
-        "La Central de Asistencias debe autorizar todos los servicios médicos y coordinar la atención.",
-        "En caso de repatriación sanitaria, el beneficiario está obligado a aceptar la solución propuesta para no perder beneficios.",
-        "La cobertura cesa cuando el beneficiario regresa a su lugar de residencia o expira el período de validez del plan, salvo excepciones.",
-        "Aplica solo para accidentes derivados de atropellos, peleas no organizadas, traumatismos o lesiones internas por actividad normal del animal, y accidentes de circulación en vehículo a motor.",
-        "No aplica para enfermedades preexistentes, crónicas o degenerativas."
+        "Si el daño corporal es producto de causas diferentes a las definidas como accidente, la cobertura aplicable será la de Asistencia Médica por Enfermedad del plan adquirido."
       ],
       "upgrades_ids": [],
       "fuente": "Ambos",
@@ -700,27 +733,16 @@
       "tipo_valor": "USD",
       "valor": 600,
       "medida": "USD",
-      "alcance": "Condición médica preexistente, crónica o recurrente",
+      "alcance": "Asistencia por preexistencias",
       "limites": [],
       "condiciones": [
         "No contempla seguimientos, controles ni tratamientos de la enfermedad preexistente.",
         "En NOMA aplica a condición médica preexistente, crónica o recurrente cuando el voucher lo contemple.",
-        "Cobertura solo para primera atención médica básica en episodio agudo imprevisible durante el viaje.",
-        "La Central de Asistencias decide el tratamiento adecuado entre opciones conservadoras, quirúrgicas o repatriación.",
-        "Repatriación obligatoria para tratamientos de largo término o cirugías no urgentes; rechazo implica pérdida de beneficios.",
-        "No cubre tratamientos, diagnósticos o conductas no relacionados con episodio agudo.",
-        "No cubre enfermedades de transmisión sexual, cáncer, diálisis, trasplantes, oncología, enfermedades mentales, congénitas, ni dispositivos médicos salvo excepción expresa.",
-        "No cubre enfermedades causadas por drogas, alcoholismo ni medicamentos sin prescripción."
+        "Se considera preexistente aun cuando sea conocido o desconocido por el Beneficiario y aun cuando los síntomas aparezcan por primera vez después del inicio del viaje."
       ],
       "upgrades_ids": [],
       "fuente": "Ambos",
-      "exclusiones": [
-        "No cubre enfermedades de transmisión sexual ni sus secuelas.",
-        "No cubre cáncer y sus derivados.",
-        "No cubre enfermedades o condiciones mentales relacionadas con sistema nervioso salvo beneficio expresamente cubierto.",
-        "No cubre audífonos, anteojos, lentes de contacto, marcapasos, desfibriladores, respiradores externos ni dispositivos implantables salvo excepción.",
-        "No cubre enfermedades causadas por ingestión de drogas, estupefacientes, alcoholismo o medicamentos sin prescripción."
-      ]
+      "exclusiones": []
     },
     {
       "id_condicion": "medica_especialistas",
@@ -735,11 +757,9 @@
       "medida": null,
       "alcance": null,
       "limites": [],
-      "condiciones": [
-        "La atención médica por especialistas se presta únicamente cuando sea inminente o urgente y esté indicada o requerida por el equipo médico de urgencia con autorización expresa de La Central de Asistencias."
-      ],
+      "condiciones": [],
       "upgrades_ids": [],
-      "fuente": "CCGG",
+      "fuente": null,
       "exclusiones": []
     },
     {
@@ -756,7 +776,9 @@
       "alcance": "Opinión médica especializada",
       "limites": [],
       "condiciones": [
-        "En NOMA se orienta a diagnósticos de enfermedad grave o terminal durante la vigencia del plan."
+        "En NOMA se orienta a diagnósticos de enfermedad grave o terminal durante la vigencia del plan.",
+        "Permite obtener evaluación por expertos ante diagnóstico de una enfermedad grave terminal.",
+        "No requiere desplazamiento y está disponible durante la vigencia del plan contratado."
       ],
       "upgrades_ids": [],
       "fuente": "Ambos",
@@ -769,19 +791,22 @@
       "nombre": "Exámenes médicos complementarios",
       "descripcion": "Cobertura de análisis, radiografías, electrocardiogramas u otros estudios indicados y autorizados.",
       "inclusion": null,
-      "valor_completo": null,
+      "valor_completo": "Reintegro únicamente de una prueba o 'test' con resultado positivo para COVID-19 que confirme el contagio, siempre que derive de sintomatología relativa al COVID-19 y la realización haya sido aprobada y derivada por La Central de Asistencias.",
       "tipo_valor": null,
       "valor": null,
       "medida": null,
       "alcance": null,
       "limites": [],
       "condiciones": [
-        "Cualquier examen médico debe ser informado y autorizado por La Central de Asistencias para su evaluación.",
-        "Exámenes no autorizados no generan obligación de reembolso por parte de NOMA."
+        "Requiere notificación y autorización previa de La Central de Asistencias para que proceda la cobertura o reembolso.",
+        "La realización de la prueba debe ser aprobada y derivada por La Central de Asistencias con antelación.",
+        "No se reintegrarán pruebas con resultado negativo ni pruebas efectuadas por requisitos migratorios."
       ],
       "upgrades_ids": [],
       "fuente": "CCGG",
-      "exclusiones": []
+      "exclusiones": [
+        "Exámenes médicos paraclínicos no autorizados por La Central de Asistencias no serán reembolsados."
+      ]
     },
     {
       "id_condicion": "medica_terapias_recuperacion",
@@ -807,22 +832,21 @@
       "categoria": "asistencia_medica",
       "nombre": "Internación",
       "descripcion": "Cobertura de internación u hospitalización indicada por el equipo médico autorizado.",
-      "inclusion": "Incluido",
-      "valor_completo": "Incluido / Including",
+      "inclusion": null,
+      "valor_completo": "NOMA asumirá los gastos de hospitalización por COVID-19 hasta los montos indicados en el plan.",
       "tipo_valor": null,
       "valor": null,
       "medida": null,
-      "alcance": "Transporte médico de emergencia",
+      "alcance": null,
       "limites": [],
       "condiciones": [
-        "Si el BENEFICIARIO está hospitalizado al finalizar la vigencia por enfermedad cubierta (no crónica, preexistente, recurrente o epidémica) o accidente, NOMA cubrirá gastos de hotelería hospitalaria hasta 3 o 5 días complementarios según plan, o hasta agotar cobertura o alta médica.",
-        "No aplica para hospitalizaciones por COVID-19.",
-        "Durante días complementarios solo se cubre hotelería hospitalaria, no procedimientos médicos, honorarios o medicamentos.",
-        "La hospitalización se realiza según la naturaleza de la lesión o enfermedad y debe ser prescrita por el Departamento Médico de La Central de Asistencias.",
-        "Se hospitaliza al beneficiario en el centro sanitario más próximo al lugar donde se encuentre."
+        "Autorización previa del Departamento Médico de La Central de Asistencias es requerida para la hospitalización.",
+        "Cobertura aplicable cuando la internación sea necesaria para estabilizar casos graves con diagnóstico positivo por COVID-19.",
+        "La cobertura cesará: 1) hasta los días indicados en su plan contratado contados desde el inicio de vigencia del voucher, o 2) hasta que se haya agotado la cobertura contratada, lo que suceda primero.",
+        "NOMA no asumirá gastos de hospitalización cuando esta obedezca a una enfermedad preexistente o esté incluida en las exclusiones, salvo planes que contemplen preexistencias (en cuyo caso se incluirán dentro del límite específico para preexistencias)."
       ],
       "upgrades_ids": [],
-      "fuente": "Ambos",
+      "fuente": "CCGG",
       "exclusiones": []
     },
     {
@@ -832,20 +856,21 @@
       "nombre": "Intervenciones quirúrgicas",
       "descripcion": "Cobertura de intervenciones quirúrgicas urgentes autorizadas durante el viaje.",
       "inclusion": null,
-      "valor_completo": null,
+      "valor_completo": "Intervenciones quirúrgicas: se procederá cuando la intervención sea inminente o urgente y esté autorizada por el Departamento Médico de La Central de Asistencias; las intervenciones electivas que no impidan la continuación normal del viaje no están incluidas.",
       "tipo_valor": null,
       "valor": null,
       "medida": null,
       "alcance": null,
       "limites": [],
       "condiciones": [
-        "Las intervenciones quirúrgicas cubiertas son las inminentes o urgentes autorizadas por el Departamento Médico de La Central de Asistencias.",
-        "Cirugías programadas o electivas que no impidan la continuación normal del viaje no están incluidas.",
-        "Si es posible el regreso al lugar de residencia para cirugía, se procederá a la repatriación y el beneficiario debe aceptar esta solución."
+        "Debe haber autorización del Departamento Médico de La Central de Asistencias para proceder.",
+        "Si, a juicio de los médicos reguladores, es posible el regreso al lugar de residencia para recibir el tratamiento quirúrgico, se procederá a la repatriación y el beneficiario está obligado a aceptarla o perderá los beneficios del plan."
       ],
       "upgrades_ids": [],
       "fuente": "CCGG",
-      "exclusiones": []
+      "exclusiones": [
+        "Intervenciones quirúrgicas electivas que no impidan la continuación normal del viaje no están incluidas."
+      ]
     },
     {
       "id_condicion": "medica_terapia_intensiva",
@@ -854,15 +879,17 @@
       "nombre": "Terapia intensiva y unidad coronaria",
       "descripcion": "Cobertura de terapia intensiva o unidad coronaria cuando la naturaleza de la enfermedad o lesión lo requiera.",
       "inclusion": null,
-      "valor_completo": null,
+      "valor_completo": "NOMA asumirá los costos generados por concepto de respirador mecánico cuando el procedimiento derive de un cuadro por COVID-19 y sea ordenado por el cuerpo médico tratante y autorizado por el cuerpo médico interno de NOMA. No cubre la adquisición del respirador.",
       "tipo_valor": null,
       "valor": null,
       "medida": null,
       "alcance": null,
       "limites": [],
       "condiciones": [
-        "La terapia intensiva se cubre cuando es inminente o urgente para estabilización y está autorizada por el Departamento Médico de La Central de Asistencias.",
-        "Se requiere acreditación con certificados médicos e informes del accidente o enfermedad."
+        "Requiere acreditación del diagnóstico con certificados médicos e informe del accidente y/o enfermedad.",
+        "Si el Beneficiario se encuentra hospitalizado por una enfermedad (no preexistente, crónica o recurrente) y/o accidente cubierto en la fecha de terminación del período de cobertura, se cubrirán únicamente los gastos por hotelería hospitalaria dentro de la cobertura de gastos médicos según corresponda.",
+        "El uso del respirador debe ser estrictamente ordenado por el cuerpo médico tratante y autorizado por el cuerpo médico interno de NOMA.",
+        "El equipo necesario está limitado a la disponibilidad sanitaria del país donde se encuentre el beneficiario."
       ],
       "upgrades_ids": [],
       "fuente": "CCGG",
@@ -899,18 +926,20 @@
       "tipo_valor": null,
       "valor": null,
       "medida": null,
-      "alcance": "Reposición de medicamentos recetados",
-      "limites": [],
+      "alcance": "Medicamentos ambulatorios",
+      "limites": [
+        {
+          "descripcion": "Reposición de medicamentos recetados incluida según voucher"
+        }
+      ],
       "condiciones": [
-        "Gastos de medicamentos incluidos en límite de Asistencia Médica por Enfermedad y/o Accidente a la mascota.",
-        "Reembolso basado en costos usuales, acostumbrados y razonables de cada país."
+        "Los medicamentos deben estar directamente relacionados con el diagnóstico objeto de la asistencia y ser autorizados por la Central de Asistencias.",
+        "El reembolso se realizará con base en los estándares de costos usuales, acostumbrados y razonables de cada país.",
+        "Los gastos de medicamentos derivados por hospitalización están incluidos en el límite de Asistencia Médica por Enfermedad y/o Accidente."
       ],
       "upgrades_ids": [],
       "fuente": "Ambos",
-      "exclusiones": [
-        "No se cubren medicamentos no indicados por el profesional veterinario.",
-        "No se cubren medicamentos para tratamiento o diagnóstico de patologías preexistentes, crónicas o recurrentes."
-      ]
+      "exclusiones": []
     },
     {
       "id_condicion": "medica_medicamentos_hosp",
@@ -941,14 +970,13 @@
       "tipo_valor": "USD",
       "valor": 600,
       "medida": "USD",
-      "alcance": "Emergencia dental",
+      "alcance": "Emergencia dental u odontología de urgencia",
       "limites": [],
       "condiciones": [],
       "upgrades_ids": [],
       "fuente": "Ambos",
       "exclusiones": [
-        "Tratamientos de conductos, coronas, prótesis, sellamientos, limpiezas, tratamientos estéticos, reposición de piezas dentales, implantes u otros no especificados.",
-        "El tratamiento para el dolor consiste en uso de analgésicos orales o medicamentos."
+        "Tratamientos de conductos, cambios de calzas, coronas, prótesis, sellamientos, limpiezas dentales, tratamientos estéticos, reposición de piezas dentales y/o implantes o cualquier otro tratamiento no especificado claramente en las condiciones."
       ]
     },
     {
@@ -975,20 +1003,20 @@
       "categoria": "asistencia_medica",
       "nombre": "Asistencia psicológica",
       "descripcion": "Cobertura o servicio de asistencia psicológica.",
-      "inclusion": "Incluido",
-      "valor_completo": "Incluido / Including",
+      "inclusion": null,
+      "valor_completo": "Orientación psicológica a distancia por psicólogo a través de canal telefónico 24 horas los 365 días del año. Duración máxima de cada sesión: veinte (20) minutos. La orientación se entenderá como finalizada en una (1) sesión con el proveedor de NOMA.",
       "tipo_valor": null,
       "valor": null,
       "medida": null,
-      "alcance": "Orientación psicológica",
+      "alcance": null,
       "limites": [],
       "condiciones": [
-        "Servicio a distancia vía telefónica 24 horas los 365 días del año.",
-        "No reemplaza consulta psicológica profesional.",
-        "Aplicable para casos como accidente con lesiones discapacitantes, duelo, violencia denunciada, trastornos alimentarios, enfermedad terminal, bullying, separación, depresión postparto, cuidados especiales, entre otros."
+        "Servicio orientado a cuadros que no pongan en riesgo la vida, que no impliquen toma de decisiones para resolver problemas traumáticos ni la evolución de una afectación emocional declarada.",
+        "Casos incluidos: accidente con lesiones discapacitantes; duelo por fallecimiento de allegado (cónyuge, padres, hijos y/o nietos); víctima o intento de secuestro denunciado; víctima de violación denunciada; víctima de violencia familiar denunciada; atraco con lesión o violencia física; trastornos alimentarios (anorexia y bulimia); enfermedad terminal; bullying; separación de padres; divorcio; orientación sexual; depresión postparto; embarazo no culminado; separación del entorno, tercera edad; cuidados del adulto mayor; cuidados del niño especial; déficit de atención; deformación congénita o adquirida.",
+        "Servicio de medio y no de resultado; NOMA no es responsable del éxito o fracaso de las acciones emprendidas por el beneficiario ni de honorarios generados fuera de este servicio."
       ],
       "upgrades_ids": [],
-      "fuente": "Ambos",
+      "fuente": "CCGG",
       "exclusiones": []
     },
     {
@@ -1002,21 +1030,19 @@
       "tipo_valor": "USD",
       "valor": 1000,
       "medida": "USD",
-      "alcance": "Práctica por deporte amateur y/o actividad recreativa",
+      "alcance": "Deportes amateur",
       "limites": [],
       "condiciones": [
-        "Las actividades deben realizarse en pistas reglamentarias o autorizadas por autoridades competentes.",
-        "Se consideran deportes y actividades recreativas y de aventura listadas en el texto, incluyendo bádminton, baloncesto, golf, ski, paracaidismo, kayak, entre otros.",
-        "La lista es enunciativa, no taxativa."
+        "Las prácticas y/o actividades de deporte y aventura deben realizarse en pistas reglamentarias o autorizadas por las autoridades competentes.",
+        "Se consideran actividades recreativas aquellas que impliquen actividad física que aumente el riesgo cotidiano y que no constituyan una práctica regular del BENEFICIARIO."
       ],
       "upgrades_ids": [],
       "fuente": "Ambos",
       "exclusiones": [
-        "Entrenamientos profesionales.",
-        "Disciplinas fuera de pistas o áreas reglamentarias como bobsleigh, luge olímpica, caza, kite buggy, montañismo y otros listados.",
-        "Actividades sin cobertura contratada en el voucher.",
-        "Eventos derivados de motociclismo, automovilismo en cualquier presentación deportiva.",
-        "Se consideran deportistas profesionales quienes viven o reciben remuneración por la práctica deportiva."
+        "Asistencias derivadas de cualquier tipo de entrenamiento de índole profesional.",
+        "Disciplinas fuera de pistas y/o áreas reglamentarias (ejemplos no taxativos: Bobsleigh, Luge Olímpica, Kite Buggy, Karts, Montañismo/Trekking/Alpinismo por encima de 3000 msnm, Skeleton, BMX, deportes aéreos salvo paracaidismo/ala delta/parapente, buceo autónomo a más de 12 metros que necesite compresión/descompresión, etc.).",
+        "Actividades deportivas o recreativas donde el BENEFICIARIO no cuente con la cobertura contratada en su voucher.",
+        "Eventos consecuentes a actividades de motociclismo o automovilismo en cualquier presentación deportiva."
       ]
     },
     {
@@ -1086,21 +1112,20 @@
       "tipo_valor": "USD",
       "valor": 800,
       "medida": "USD",
-      "alcance": "Gastos médicos por complicaciones de embarazo (26 semanas)",
+      "alcance": "Complicaciones de embarazo",
       "limites": [],
       "condiciones": [
         "En NOMA se observa como Futura Mamá, con semana límite indicada en voucher; en los planes revisados aparece hasta 26 semanas.",
         "Límite de edad observado en CCGG NOMA: 21 a 45 años.",
-        "Cobertura hasta el tope indicado y hasta la semana de gestación indicada en el voucher.",
-        "Límite de edad para la beneficiaria entre 21 y 45 años.",
-        "No contempla cobertura para el recién nacido.",
-        "Límite de semana: 26 semanas"
+        "La prestación se brinda hasta la semana de gestación indicada en su voucher y con un límite de edad de 45 años.",
+        "Cobertura sólo para la futura mamá; no contempla al recién nacido.",
+        "Límite de semana indicado en voucher: 26 semanas"
       ],
       "upgrades_ids": [],
       "fuente": "Ambos",
       "exclusiones": [
-        "No cubre partos programados fuera del país de residencia.",
-        "Quedan excluidos abortos inducidos por la beneficiaria o terceros, aun cuando sean legales en la jurisdicción."
+        "Partos programados con la intención premeditada de dar a luz fuera del país de residencia de la beneficiaria.",
+        "Abortos inducidos por la beneficiaria o por terceros, aún cuando dicho proceso sea legal en la jurisdicción."
       ]
     },
     {
@@ -1114,29 +1139,44 @@
       "tipo_valor": "USD",
       "valor": 100,
       "medida": "USD",
-      "alcance": "Asistencia veterinaria en caso de enfermedad o accidente",
-      "limites": [],
+      "alcance": "Asistencia u orientación veterinaria",
+      "limites": [
+        {
+          "descripcion": "Para enfermedades preexistentes y/o crónicas: hasta un máximo de USD 100 del plan adquirido cuando se trate de una emergencia o evento agudo comprobable."
+        },
+        {
+          "descripcion": "Medicamentos para mascotas: reembolso hasta el tope máximo del plan adquirido; los gastos de medicamentos estarán incluidos en el límite de Asistencia Médica por Enfermedad y/o Accidente a la mascota."
+        },
+        {
+          "descripcion": "Eutanasia/sacrificio y cremación: reembolso hasta el límite indicado en el voucher contratado cuando, a juicio del veterinario, la eutanasia resulte aconsejable por lesiones irreversibles y siempre que la causa derive de accidente. Incluye incineración del cadáver cuando corresponda."
+        }
+      ],
       "condiciones": [
         "En NOMA aplica solo para perros o gatos con ingreso válido al país de destino.",
         "La mascota debe tener al menos 4 meses y no más de 8 años.",
         "Incluye dentro del mismo tope los medicamentos para mascotas y, cuando corresponda, eutanasia o cremación.",
-        "La asistencia está orientada a emergencias o eventos súbitos e imprevisibles con diagnóstico claro y comprobable.",
-        "La validez es la misma que la vigencia del voucher del dueño de la mascota, por un máximo de 90 días continuos.",
-        "No cubre procedimientos electivos ni tratamientos de larga duración, solo recuperación inicial para continuar el viaje.",
-        "Aplica solo para perros y gatos.",
-        "Mascota debe tener entre 4 meses y 8 años de edad.",
-        "Mascota debe contar con cartilla de vacunación completa y vigente.",
-        "Mascota no debe presentar enfermedad al momento del viaje.",
-        "Mascota debe estar desparasitada interna y externamente.",
-        "Solo una mascota por pasajero.",
-        "No acumulable ni transferible.",
-        "Excluye asistencias por participación en peleas organizadas, apuestas, desafíos o demostraciones deportivas.",
-        "Excluye casos de malos tratos, exceso de trabajo o mala calidad higiénica imputables al pasajero."
+        "Aplicable a emergencias o eventos agudos comprobables diagnosticados durante la vigencia del voucher.",
+        "La validez del beneficio es la misma que la vigencia del voucher del dueño de la mascota, por un máximo de 90 días continuos.",
+        "No está diseñada para procedimientos electivos o tratamientos de larga duración.",
+        "Servicio válido solo para perros y gatos.",
+        "La mascota debe haber ingresado válidamente al país de destino y contar con el certificado que corresponda expedido por la autoridad competente.",
+        "Edad mínima: 4 meses. Edad máxima: 8 años.",
+        "El propietario debe presentar cartilla de vacunación completa y vigente; si la mascota es menor de un año, acreditar vacunas de refuerzo.",
+        "La mascota, al momento del viaje, no deberá presentar ninguna enfermedad (salvo la condición de emergencia objeto del reembolso cuando aplique).",
+        "La mascota debe estar desparasitada interna y externamente.",
+        "Solo aplica para una mascota por pasajero.",
+        "Beneficio no acumulable ni transferible.",
+        "Para reembolsos de medicamentos: deben haber sido formulados por el profesional veterinario y autorizados por la Central de Asistencias; el reembolso se realizará con base en los estándares de costos usuales de cada país."
       ],
       "upgrades_ids": [],
       "fuente": "Ambos",
       "exclusiones": [
-        "Gastos por asistencia veterinaria por enfermedad preexistente, medicamentos para mascotas, eutanasia/sacrificio y cremación están incluidos en el mismo límite de asistencia veterinaria."
+        "El beneficio no podrá extenderse para procedimientos electivos o de larga duración.",
+        "Nota explícita en CCGG: gastos tales como asistencia veterinaria médica por enfermedad preexistente, medicamentos para mascotas, eutanasia/sacrificio y cremación están incluidos dentro del límite del tope máximo de ASISTENCIA VETERINARIA EN CASO DE ENFERMEDAD O ACCIDENTE.",
+        "No se asumirá el costo de medicamentos no señalados por el profesional veterinario tratante, ni los destinados al tratamiento o diagnóstico de patologías preexistentes, crónicas o recurrentes.",
+        "Quedan excluidas asistencias por participación del animal en peleas organizadas, apuestas, desafíos o demostraciones deportivas.",
+        "Quedan excluidas asistencias derivadas de malos tratos, exceso de trabajo, falta, insuficiencia o mala calidad higiénica de alimentos o cuidados imputables al pasajero.",
+        "Eutanasia y cremación no cubiertas cuando la causa sea enfermedad preexistente, crónica o degenerativa."
       ]
     },
     {
@@ -1150,18 +1190,20 @@
       "tipo_valor": "USD",
       "valor": 700,
       "medida": "USD",
-      "alcance": "Gastos de hotel por convalecencia",
+      "alcance": "Hotel por convalecencia",
       "limites": [],
       "condiciones": [
         "En NOMA aplica tras internación hospitalaria de al menos 7 días y por reposo forzoso indicado por médico tratante.",
         "En NOMA el hospedaje por convalecencia se limita a habitación, hasta 5 días o hasta el tope del plan.",
-        "El reposo y alojamiento deben estar dentro del periodo de validez del voucher.",
-        "No se cubren gastos de alimentación ni otros gastos como lavandería, llamadas (excepto a Central), minibar, etc.",
-        "No se asume alojamiento por enfermedades preexistentes, crónicas, recurrentes o epidémicas, incluso si el plan tiene tope para preexistencias."
+        "Aplicable si, como consecuencia de un accidente o enfermedad no preexistente, no recurrente, crónica o epidémica, el BENEFICIARIO hubiera estado internado al menos siete (7) días y a su salida deba guardar reposo forzoso por prescripción médica y en común acuerdo con el departamento médico de La Central de Asistencias.",
+        "El reposo deberá ser aprobado exclusivamente por los médicos de La Central de Asistencias.",
+        "El beneficio aplicará siempre que el plazo de reposo o días de alojamiento se encuentre dentro del periodo de validez del voucher."
       ],
       "upgrades_ids": [],
       "fuente": "Ambos",
-      "exclusiones": []
+      "exclusiones": [
+        "No se asumirá gasto de alojamiento cuando obedezca a una enfermedad preexistente, crónica, recurrente o epidémica (incluso si el plan tiene monto tope para preexistencias) o cuando forme parte de las exclusiones."
+      ]
     },
     {
       "id_condicion": "telemedicina",
@@ -1170,14 +1212,14 @@
       "nombre": "Telemedicina",
       "descripcion": "Atención médica remota por canales habilitados del proveedor.",
       "inclusion": null,
-      "valor_completo": null,
+      "valor_completo": "Telemedicina: Agrupa toda prestación de servicios de medicina realizados a distancia mediante el uso de las TICs; herramienta para atención rápida y primaria de síntomas que no pongan en riesgo la vida del beneficiario, permitiendo compartir audio e imágenes en video para optimizar la evaluación médica.",
       "tipo_valor": null,
       "valor": null,
       "medida": null,
       "alcance": null,
       "limites": [],
       "condiciones": [
-        "El Departamento Médico determina la conveniencia de brindar soporte sanitario mediante audio y video para optimizar la evaluación médica y diagnóstico."
+        "Prestación sujeta a determinación del Departamento Médico cuando lo considere conveniente."
       ],
       "upgrades_ids": [],
       "fuente": "CCGG",
@@ -1189,6 +1231,28 @@
       "categoria": "asistencia_medica",
       "nombre": "Salud emocional",
       "descripcion": "Servicio de apoyo para salud emocional según condiciones del producto.",
+      "inclusion": "Incluido",
+      "valor_completo": "Incluido / Including",
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": "Salud emocional",
+      "limites": [
+        {
+          "descripcion": "Orientación psicológica incluida según voucher"
+        }
+      ],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": "Voucher",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "orientacion_nutricional",
+      "tipo_cobertura": "asistencia",
+      "categoria": "servicios_asistencia",
+      "nombre": "Orientación nutricional",
+      "descripcion": "Servicio de orientación nutricional telefónica o remota para asesoramiento preventivo o asociado a dolencias no urgentes.",
       "inclusion": null,
       "valor_completo": null,
       "tipo_valor": null,
@@ -1202,24 +1266,6 @@
       "exclusiones": []
     },
     {
-      "id_condicion": "orientacion_nutricional",
-      "tipo_cobertura": "asistencia",
-      "categoria": "servicios_asistencia",
-      "nombre": "Orientación nutricional",
-      "descripcion": "Servicio de orientación nutricional telefónica o remota para asesoramiento preventivo o asociado a dolencias no urgentes.",
-      "inclusion": "Incluido",
-      "valor_completo": "Incluido / Including",
-      "tipo_valor": null,
-      "valor": null,
-      "medida": null,
-      "alcance": "Orientación y coordinación turistica",
-      "limites": [],
-      "condiciones": [],
-      "upgrades_ids": [],
-      "fuente": "Voucher",
-      "exclusiones": []
-    },
-    {
       "id_condicion": "traslado_sanitario",
       "tipo_cobertura": "transporte",
       "categoria": "transporte",
@@ -1230,11 +1276,18 @@
       "tipo_valor": null,
       "valor": null,
       "medida": null,
-      "alcance": "Traslado sanitario y/o repatriación sanitaria",
-      "limites": [],
-      "condiciones": [],
+      "alcance": "Traslado sanitario",
+      "limites": [
+        {
+          "descripcion": "También mencionado como Transporte médico de emergencia: Incluido"
+        }
+      ],
+      "condiciones": [
+        "Aprobación y autorización previa del cuerpo médico de La Central de Asistencias.",
+        "Decisión del medio y destino del traslado en función de lo que considere más apropiado el cuerpo médico."
+      ],
       "upgrades_ids": [],
-      "fuente": "Voucher",
+      "fuente": "Ambos",
       "exclusiones": []
     },
     {
@@ -1243,29 +1296,30 @@
       "categoria": "transporte",
       "nombre": "Repatriación sanitaria",
       "descripcion": "Organización y cobertura de repatriación sanitaria del beneficiario por indicación médica.",
-      "inclusion": null,
-      "valor_completo": "Organización y cobertura de traslado sanitario autorizado por Departamento Médico de NOMA para beneficiario imposibilitado de regresar en condiciones normales por enfermedad no preexistente o accidente comunicado oportunamente.",
+      "inclusion": "Incluido",
+      "valor_completo": "Incluido / Including",
       "tipo_valor": null,
       "valor": null,
       "medida": null,
-      "alcance": null,
-      "limites": [],
+      "alcance": "Repatriación sanitaria",
+      "limites": [
+        {
+          "descripcion": "Incluido según voucher (mencionado en misma línea que traslado sanitario)"
+        }
+      ],
       "condiciones": [
-        "Repatriación en avión comercial clase turista sujeta a disponibilidad.",
-        "Incluye transporte en ambulancia u otro medio compatible con estado de salud desde hospital hasta residencia.",
-        "Debe ser autorizado y justificado médicamente por médico tratante y Departamento Médico de NOMA.",
-        "No cubre intervenciones quirúrgicas electivas que no impidan continuación normal del viaje.",
-        "No cubre repatriación por enfermedad preexistente salvo planes con cobertura expresa.",
-        "Requiere comunicación a Central de Asistencias en máximo 24 horas del evento.",
-        "Tratamiento médico debe estar autorizado por Central de Asistencias.",
-        "Requiere recomendación médica para traslado en medio acondicionado.",
-        "Informe médico que certifique imposibilidad de viajar como pasajero regular.",
-        "Autorización médica para traslado al país de residencia.",
-        "Recomendación médica sobre atenciones durante regreso.",
-        "Cobertura por práctica de deporte o actividad recreativa si el evento es por dicha causa."
+        "El BENEFICIARIO deberá aceptar la repatriación a su país de origen cuando, según opinión médica de los médicos reguladores de La Central de Asistencias, su estado sanitario lo permita y lo requiera.",
+        "Si el BENEFICIARIO rechaza la repatriación recomendada por La Central de Asistencias perderá todos los beneficios otorgados por su plan de asistencia.",
+        "El evento deberá ser comunicado a la Central de Asistencias antes de transcurridas veinticuatro (24) horas de su ocurrencia.",
+        "El tratamiento y la repatriación deben ser autorizados por la Central de Asistencias y por su Departamento Médico.",
+        "Que un profesional médico recomiende el traslado en un medio de transporte no público y/o acondicionado según el estado de salud del BENEFICIARIO.",
+        "Informe médico con diagnóstico que justifique la imposibilidad de viajar como BENEFICIARIO regular y autorización médica para efectuar el traslado.",
+        "Recomendación médica sobre las atenciones que requiera el BENEFICIARIO durante el regreso.",
+        "El BENEFICIARIO deberá aceptar la solución propuesta por el Departamento Médico; en caso de rechazo perderá los beneficios del plan.",
+        "No será reconocido ningún gasto por repatriación cuando la causa sea una enfermedad preexistente o un evento que figure dentro de las exclusiones generales, salvo en planes que contemplen preexistencias."
       ],
       "upgrades_ids": [],
-      "fuente": "CCGG",
+      "fuente": "Ambos",
       "exclusiones": []
     },
     {
@@ -1279,7 +1333,7 @@
       "tipo_valor": null,
       "valor": null,
       "medida": null,
-      "alcance": "Regreso de acompañante del titular repatriado",
+      "alcance": "Regreso de acompañante del pasajero repatriado",
       "limites": [],
       "condiciones": [],
       "upgrades_ids": [],
@@ -1292,20 +1346,19 @@
       "categoria": "transporte",
       "nombre": "Repatriación de familiares",
       "descripcion": "Cobertura de penalidades o desplazamiento de familiares que viajan con el beneficiario cuando este debe ser repatriado.",
-      "inclusion": null,
-      "valor_completo": "Cuando un beneficiario debe ser repatriado por enfermedad o accidente, la Central de Asistencias cubrirá penalidades por desplazamiento de familiares en primer grado de consanguinidad que sean también beneficiarios y viajen con él, al país de residencia habitual.",
+      "inclusion": "No incluido",
+      "valor_completo": "No aplica / do not apply",
       "tipo_valor": null,
       "valor": null,
       "medida": null,
-      "alcance": null,
+      "alcance": "Repatriación de familiares",
       "limites": [],
       "condiciones": [
         "En NOMA aplica para familiares de primer grado que sean beneficiarios del mismo plan o voucher.",
-        "Familiares deben ser beneficiarios del mismo plan y viajar junto al beneficiario al momento de la asistencia.",
-        "La elección del medio de transporte queda a criterio exclusivo de la Central de Asistencias."
+        "La elección del o los medios a utilizar quedará a exclusivo criterio de La Central de Asistencias."
       ],
       "upgrades_ids": [],
-      "fuente": "CCGG",
+      "fuente": "Ambos",
       "exclusiones": []
     },
     {
@@ -1322,15 +1375,16 @@
       "alcance": "Repatriación funeraria",
       "limites": [],
       "condiciones": [
-        "Solicitud debe hacerse a la Central de Asistencias dentro de 48 horas siguientes al fallecimiento.",
-        "Cobertura hasta el tope especificado en el plan contratado."
+        "Los familiares deberán solicitar la gestión a la Central de Asistencias dentro del plazo de 48 horas siguientes al fallecimiento.",
+        "No están contemplados servicios religiosos, ataúdes especiales ni gastos de regreso de familiares acompañantes del fallecido.",
+        "Las prestaciones ofrecidas se otorgarán hasta el límite de cobertura de asistencia médica por enfermedad y/o accidente que figure en el plan contratado."
       ],
       "upgrades_ids": [],
       "fuente": "Ambos",
       "exclusiones": [
-        "No cubre servicios religiosos ni ataúdes especiales.",
-        "No cubre gastos de regreso de familiares acompañantes.",
-        "No cubre repatriación funeraria en caso de muerte por narcóticos o estupefacientes, suicidio, o enfermedad preexistente, crónica, recurrente o epidémica."
+        "La repatriación funeraria no se hará cargo cuando la muerte haya sido producida por narcóticos o estupefacientes.",
+        "No cubre fallecimientos por suicidio.",
+        "No cubre fallecimientos cuando sean consecuencia de una enfermedad preexistente, crónica, recurrente o epidémica padecida por el BENEFICIARIO."
       ]
     },
     {
@@ -1339,20 +1393,22 @@
       "categoria": "transporte",
       "nombre": "Traslado de familiar",
       "descripcion": "Cobertura para traslado de un familiar por contingencia del beneficiario.",
-      "inclusion": null,
-      "valor_completo": null,
+      "inclusion": "Incluido",
+      "valor_completo": "TKT en Clase Econ + Hotel",
       "tipo_valor": null,
       "valor": null,
       "medida": null,
-      "alcance": null,
-      "limites": [],
+      "alcance": "Traslado de familiar",
+      "limites": [
+        {
+          "descripcion": "Traslado de familiar por hospitalización: TKT en Clase Econ + Hotel"
+        }
+      ],
       "condiciones": [
-        "Sujeto a disponibilidad de espacio.",
-        "Gastos de hotel para familiar acompañante hasta US$80 diarios por máximo 7 días o hasta alta del paciente.",
-        "Gastos limitados a hospedaje simple, sin restaurante, lavandería, telefonía, minibar u otros gastos adicionales."
+        "Sujeto a disponibilidad de plazas en clase turista para el familiar acompañante."
       ],
       "upgrades_ids": [],
-      "fuente": "CCGG",
+      "fuente": "Ambos",
       "exclusiones": []
     },
     {
@@ -1361,16 +1417,20 @@
       "categoria": "transporte",
       "nombre": "Estadia de familiar",
       "descripcion": "Cobertura de gastos de alojamiento para un familiar acompaniante.",
-      "inclusion": "Incluido",
-      "valor_completo": "TKT en Clase Econ + Hotel",
-      "tipo_valor": null,
-      "valor": null,
-      "medida": null,
-      "alcance": "Traslado de familiar por hospitalización",
-      "limites": [],
+      "inclusion": null,
+      "valor_completo": "Gastos de hotel del familiar acompañante con un máximo de US$80 (ochenta dólares) diarios durante máximo siete (7) días o hasta el alta del paciente, lo que ocurra primero. Limitado al hospedaje simple, sin gastos de restaurante, lavandería, telefonía, minibar u otros extras.",
+      "tipo_valor": "monetario",
+      "valor": 80,
+      "medida": "USD por día",
+      "alcance": null,
+      "limites": [
+        {
+          "descripcion": "Máximo siete (7) días o hasta el alta del paciente, lo que ocurra primero."
+        }
+      ],
       "condiciones": [],
       "upgrades_ids": [],
-      "fuente": "Voucher",
+      "fuente": "CCGG",
       "exclusiones": []
     },
     {
@@ -1384,11 +1444,19 @@
       "tipo_valor": null,
       "valor": null,
       "medida": null,
-      "alcance": "Acompañamiento de menores de 15 años",
-      "limites": [],
+      "alcance": "Acompañamiento de menor o mayor",
+      "limites": [
+        {
+          "descripcion": "Acompañamiento a mayores de 75 años: TKT Clase Econ."
+        },
+        {
+          "descripcion": "Acompañamiento de menores de 15 años: TKT Clase Econ."
+        }
+      ],
       "condiciones": [
-        "El acompañante designado debe contar con permisos y autorizaciones legales para el traslado.",
-        "El traslado se realizará según disponibilidad y políticas de aerolíneas o medios adecuados."
+        "El traslado se efectuará por el medio más adecuado según disponibilidad y políticas de la aerolínea, pudiendo utilizar pasajes en posesión o medios que La Central considere apropiados.",
+        "Si no es posible el desplazamiento directo, La Central gestionará sin costo adicional el traslado de un acompañante para asistirlos durante el viaje de regreso.",
+        "El acompañante designado deberá contar con todos los permisos y autorizaciones legales requeridos para el traslado."
       ],
       "upgrades_ids": [],
       "fuente": "Ambos",
@@ -1423,18 +1491,21 @@
       "tipo_valor": null,
       "valor": null,
       "medida": null,
-      "alcance": "Viaje de regreso por fallecimiento de familiar en 1°",
-      "limites": [],
+      "alcance": "Regreso anticipado por familiar",
+      "limites": [
+        {
+          "descripcion": "Viaje de regreso por fallecimiento de familiar: TKT Clase Econ. según voucher"
+        }
+      ],
       "condiciones": [
-        "Solicitud debe realizarse dentro de 48 horas posteriores al deceso.",
-        "Vuelo de retorno debe organizarse o estar previsto en máximo 5 días luego del fallecimiento.",
-        "Debe acreditarse con certificado de defunción y documento que acredite parentesco.",
-        "NOMA recuperará pasaje no utilizado y sufragará solo diferencia de tarifa."
+        "Solicitud realizada dentro de las 48 horas posteriores al deceso.",
+        "El vuelo de retorno debe organizarse o encontrarse previsto en un máximo de 5 días siguientes al fallecimiento del familiar.",
+        "Se debe acreditar mediante certificado de defunción y documento que acredite parentesco."
       ],
       "upgrades_ids": [],
       "fuente": "Ambos",
       "exclusiones": [
-        "No cubre fallecimientos por suicidio del familiar."
+        "No aplica cuando el fallecimiento del familiar sea por suicidio."
       ]
     },
     {
@@ -1448,14 +1519,12 @@
       "tipo_valor": null,
       "valor": null,
       "medida": null,
-      "alcance": "Regreso anticipado por siniestro grave en domicilio",
+      "alcance": "Regreso anticipado por siniestro en domicilio",
       "limites": [],
       "condiciones": [
-        "Debe no haber persona que pueda hacerse cargo de la situación.",
-        "Pasaje original no debe permitir cambio gratuito de fecha.",
-        "Solicitud debe realizarse dentro de 24 horas posteriores al evento.",
-        "Viaje de regreso debe organizarse dentro de 5 días siguientes al evento.",
-        "Se debe presentar denuncia policial, informe de bomberos o autoridad correspondiente."
+        "La solicitud debe realizarse en el periodo de 24 horas posteriores al evento; la solicitud fuera de ese plazo exime a NOMA de brindar la cobertura.",
+        "La asistencia deberá acreditarse mediante la presentación en la Central de Asistencias del original de la denuncia policial, informe de bomberos o informe de la autoridad correspondiente.",
+        "El beneficio se brindará solo dentro del período de vigencia del voucher y siempre que el vuelo de retorno se organice o esté previsto en un máximo de 5 días siguientes al ocurrido el evento."
       ],
       "upgrades_ids": [],
       "fuente": "Ambos",
@@ -1486,15 +1555,18 @@
       "nombre": "Línea de consultas",
       "descripcion": "Servicio de información general para el viajero sobre hoteles, clima, moneda, consulados u otros datos útiles.",
       "inclusion": null,
-      "valor_completo": null,
+      "valor_completo": "Información relativa a obligaciones consulares, sanitarias, turísticas y otras relativas al país de destino disponible hasta las 24 horas anteriores al día de la partida para los beneficiarios del plan de asistencia.",
       "tipo_valor": null,
       "valor": null,
       "medida": null,
       "alcance": null,
       "limites": [],
-      "condiciones": [],
+      "condiciones": [
+        "Servicio disponible hasta las 24 horas anteriores al día de partida.",
+        "Dirigido a beneficiarios de un plan de asistencia."
+      ],
       "upgrades_ids": [],
-      "fuente": null,
+      "fuente": "CCGG",
       "exclusiones": []
     },
     {
@@ -1509,9 +1581,14 @@
       "valor": null,
       "medida": null,
       "alcance": "Asistencia Concierge",
-      "limites": [],
+      "limites": [
+        {
+          "descripcion": "Incluye orientación y coordinación turística según voucher."
+        }
+      ],
       "condiciones": [
-        "En NOMA el beneficiario asume los costos de los servicios gestionados por concierge."
+        "En NOMA el beneficiario asume los costos de los servicios gestionados por concierge.",
+        "El beneficiario pagará todos los costos y gastos de los servicios de asistencia concierge; el servicio es netamente informativo."
       ],
       "upgrades_ids": [],
       "fuente": "Ambos",
@@ -1564,11 +1641,13 @@
       "tipo_valor": null,
       "valor": null,
       "medida": null,
-      "alcance": "Línea de consultas 24 horas",
+      "alcance": "Línea de consultas y asistencias especiales 24h",
       "limites": [],
-      "condiciones": [],
+      "condiciones": [
+        "Servicio de consulta y orientación médica telefónica o por video prestado por los médicos de La Central de Asistencias."
+      ],
       "upgrades_ids": [],
-      "fuente": "Voucher",
+      "fuente": "Ambos",
       "exclusiones": []
     },
     {
@@ -1579,23 +1658,23 @@
       "descripcion": "Compensación por demoras o cancelaciones de vuelo según condiciones.",
       "inclusion": "Incluido",
       "valor_completo": "EUR/USD 350",
-      "tipo_valor": "USD/EUR",
+      "tipo_valor": "EUR/USD",
       "valor": 350,
-      "medida": "USD/EUR",
-      "alcance": "Gastos por vuelo demorado o cancelado (6 horas)",
+      "medida": "EUR/USD",
+      "alcance": "Vuelo demorado o cancelado",
       "limites": [
         {
-          "descripcion": "Aplicable a ambas monedas EUR y USD"
+          "descripcion": "Aplicable a demoras de 6 horas según voucher"
         }
       ],
       "condiciones": [
-        "No aplica si el beneficiario viaja con billete sujeto a disponibilidad, descuento, canje de millas, vuelos charters, fletados, aviones particulares o militares, o vuelos sin itinerario fijo publicado.",
-        "No aplica si gastos fueron cubiertos por la aerolínea o si la demora/cancelación es imputable al beneficiario.",
-        "En caso de fuerza mayor, se reembolsa hasta 50% del monto de este beneficio.",
-        "No cubre servicios perdidos como traslados, excursiones, ni aplica en caso de quiebra o cesación de servicios de la aerolínea.",
-        "Beneficio efectivo a partir de 100 km del lugar de residencia para planes de ámbito nacional.",
-        "Debe constar en condiciones particulares y voucher del plan contratado.",
-        "Demora mínima: 6 horas"
+        "Aplica en viajes internacionales durante la vigencia del contrato cuando la demora o cancelación supere seis (6) horas y no exista otra alternativa de transporte.",
+        "Es necesario presentar comprobantes originales de gastos y un certificado de la compañía aérea que refleje la demora o cancelación.",
+        "No se brindará el servicio si el BENEFICIARIO viaja con un billete sujeto a disponibilidad de espacio, ni de descuento o canje de millas, ni de vuelos charters o fletados, aviones particulares o militares, o cualquier vuelo que no tenga un itinerario fijo publicado que opere regularmente.",
+        "No aplica cuando los gastos hayan sido abonados por la aerolínea o cuando la causa de la demora o cancelación sea imputable al BENEFICIARIO.",
+        "En planes de ámbito nacional, este beneficio es efectivo a partir de los 100 km del lugar de residencia.",
+        "Cuando la causa de la demora o cancelación sea consecuencia de fuerzas naturales, NOMA reembolsará hasta el 50% del monto de este beneficio según el plan contratado.",
+        "Este servicio no se aplica si la cancelación se debe a la quiebra y/o cesación de servicios de la línea aérea."
       ],
       "upgrades_ids": [],
       "fuente": "Ambos",
@@ -1612,17 +1691,19 @@
       "tipo_valor": null,
       "valor": null,
       "medida": null,
-      "alcance": "Demora de vuelo = Salas VIP (retraso mayos a 6 horas)",
+      "alcance": "Salas VIP por demora o cancelación de vuelo",
       "limites": [
         {
-          "descripcion": "Demora mínima: 6 horas"
+          "descripcion": "Aplicable para retrasos mayores a 6 horas según voucher"
         }
       ],
       "condiciones": [
         "En NOMA aplica por retraso o cancelación mayor a 6 horas y cubre alimentos, bebidas no alcohólicas y comunicaciones.",
-        "Presentar facturas y comprobante oficial de retraso o cancelación de la aerolínea.",
-        "No aplica si el acceso a sala VIP es por programas de viajero frecuente, canje de millas, tarjeta de crédito u otros medios similares.",
-        "No se responsabiliza por pérdida de pertenencias dentro de salas VIP."
+        "Aplica cuando un vuelo internacional sufra un retraso o cancelación mayor a 6 horas.",
+        "Se deberán presentar facturas de los gastos realizados en la sala y comprobante/notificación oficial de la aerolínea que acredite el retraso o cancelación.",
+        "No aplica si el BENEFICIARIO accede a la sala VIP a través de programas de viajero frecuente, canje de millas, accesos gratuitos por tarjeta de crédito u otros medios similares.",
+        "En planes de ámbito nacional, este beneficio es efectivo a partir de los 100 km del lugar de residencia.",
+        "NOMA no se responsabiliza por la pérdida de pertenencias dentro de las Salas VIP; el reembolso cubre exclusivamente el costo de ingreso a la sala y los consumos realizados dentro de la misma."
       ],
       "upgrades_ids": [],
       "fuente": "Ambos",
@@ -1635,7 +1716,7 @@
       "nombre": "Repatriación por quiebra de aerolínea",
       "descripcion": "Cobertura de repatriación por insolvencia o quiebra de compañía aérea.",
       "inclusion": null,
-      "valor_completo": null,
+      "valor_completo": "Quiebra de compañía aérea, agencia de viajes, tour operador, entre otros.",
       "tipo_valor": null,
       "valor": null,
       "medida": null,
@@ -1643,7 +1724,7 @@
       "limites": [],
       "condiciones": [],
       "upgrades_ids": [],
-      "fuente": null,
+      "fuente": "CCGG",
       "exclusiones": []
     },
     {
@@ -1658,24 +1739,29 @@
       "valor": 400,
       "medida": "USD",
       "alcance": "Repatriación administrativa",
-      "limites": [],
+      "limites": [
+        {
+          "descripcion": "Tope según monto indicado en el voucher."
+        }
+      ],
       "condiciones": [
         "En NOMA debe notificarse a la central dentro de 24 horas luego del ingreso al país de origen.",
-        "Avisar a la Central de Asistencias en máximo 24 horas luego del ingreso al país de origen.",
-        "Contratar el plan con diferencia máxima de 24 horas posteriores al pago de servicios.",
-        "Servicios contratados con menos de 24 horas antes del inicio del voucher no activan este beneficio.",
-        "Presentar documentación que NOMA considere para evaluar la cobertura y acreditar causas.",
-        "En planes Multiviajes, aplica solo para un viaje durante la vigencia del voucher.",
-        "El beneficiario tiene 30 días continuos desde la notificación para presentar documentación."
+        "Dar aviso a la Central de Asistencias en un máximo de 24 horas luego de su ingreso al país de origen.",
+        "Contratar el plan con una diferencia de hasta 24 horas siguientes al pago de los servicios contratados.",
+        "Los servicios contratados con menos de veinticuatro (24) horas antes del inicio del voucher no gozarán de la activación de este beneficio.",
+        "Presentar la documentación que NOMA considere necesaria para evaluar la cobertura y acreditar la veracidad de las causas (comprobantes de pago, facturas con desglose, comunicaciones de cancelación y certificaciones de proveedores o autoridades).",
+        "En planes Multiviajes el beneficio aplicará únicamente para un (1) viaje realizado durante la vigencia del voucher.",
+        "El BENEFICIARIO tiene hasta treinta (30) días continuos a partir de la notificación a la Central de Asistencias para presentar la documentación y respaldos necesarios para iniciar el proceso de reintegro.",
+        "NOMA reembolsará el monto pagado a la aerolínea, tour operador o agencia de viajes por concepto de penalidades y lo hará hasta la suma que exprese el monto tope de cobertura en el voucher; cualquier cargo o penalidad ya aplicada por la agencia se restará de la indemnización."
       ],
       "upgrades_ids": [],
       "fuente": "Ambos",
       "exclusiones": [
-        "No reembolsables pasajes sujetos a disponibilidad, descuento o canje de millas.",
-        "No reembolsables penalidades por reprogramación total o parcial del viaje.",
-        "No reembolsables pasajes o cruceros no reembolsables o vuelos sin itinerario fijo publicado.",
-        "No reembolsables cuando la causa de no admisión esté relacionada a actividades ilícitas del beneficiario.",
-        "No se reintegrará el valor del voucher por uso de este servicio."
+        "No serán reembolsables los pasajes sujetos a disponibilidad de espacio, ni de descuento o mediante canje de millas.",
+        "No serán reembolsables las penalidades consecuencia de la reprogramación total o parcial del viaje.",
+        "No serán reembolsables pasajes y/o cruceros que tengan como condición no reembolsables o cualquier vuelo que no tenga un itinerario fijo publicado que opere regularmente (por ejemplo: vuelo chárter).",
+        "No habrá reintegro cuando la causa de la no admisión esté relacionada a actividades ilícitas por parte del BENEFICIARIO o eventos considerados como exclusiones en las Condiciones Generales.",
+        "No se reintegrará el valor del voucher ante el uso de este servicio."
       ]
     },
     {
@@ -1702,28 +1788,27 @@
       "categoria": "transporte",
       "nombre": "Pérdida de conexiones",
       "descripcion": "Reembolso por penalidades, nuevos tickets, alimentación, llamadas u hotel ante pérdida de conexión de vuelos por causas imputables a la compañía aérea.",
-      "inclusion": null,
-      "valor_completo": "Reembolso hasta el tope de la cobertura del plan contratado por penalidades o compra de nuevos tickets aéreos, alimentación, llamadas y hotel por pérdida de conexión de vuelos con espera mayor a 6 horas imputable a la compañía aérea.",
+      "inclusion": "No incluido",
+      "valor_completo": "No aplica / do not apply",
       "tipo_valor": null,
       "valor": null,
       "medida": null,
-      "alcance": null,
+      "alcance": "Pérdida de conexiones",
       "limites": [],
       "condiciones": [
         "En NOMA aplica por más de 6 horas de espera en aeropuerto de escala y requiere justificante de la compañía transportista.",
-        "Pérdida de conexión con espera mayor a 6 horas en aeropuerto de escala.",
+        "Espera superior a 6 horas en aeropuerto de escala.",
         "Causas ajenas al beneficiario e imputables a la compañía aérea.",
-        "Presentación de justificante original emitido por la compañía transportista.",
-        "Presentación de facturas originales para reembolso."
+        "Presentación del justificante original emitido por la compañía transportista y facturas originales para el reembolso."
       ],
       "upgrades_ids": [],
-      "fuente": "CCGG",
+      "fuente": "Ambos",
       "exclusiones": [
-        "Indemnizaciones por demoras en vuelos no regulares.",
-        "Pasajes sujetos a disponibilidad, descuento, canje de millas, vuelos chárter, fletados, aviones particulares o militares.",
-        "Falta de documentación requerida para ingreso al país.",
-        "Servicios perdidos/no gozados como traslados, hoteles, excursiones.",
-        "Pérdida de conexión por quiebra o cesación de servicios de la línea aérea."
+        "No serán reintegrados pasajes sujetos a disponibilidad, descuentos o canje de millas.",
+        "No cubre vuelos chárter, fletados, aviones particulares o militares, o vuelos sin itinerario fijo publicado que operen regularmente.",
+        "No se aplicará si falta la documentación requerida para el ingreso al país.",
+        "No cubre servicios perdidos/no gozados consecuencia de la pérdida de conexión (por ejemplo traslados, hoteles, excursiones).",
+        "No aplica si la cancelación se debe a la quiebra o cesación de servicios de la línea aérea."
       ]
     },
     {
@@ -1732,18 +1817,19 @@
       "categoria": "crucero",
       "nombre": "Seguimiento de viaje / crucero",
       "descripcion": "Billete aéreo para alcanzar el siguiente puerto de parada cuando se pierde la salida del crucero por demora del vuelo de conexión.",
-      "inclusion": null,
-      "valor_completo": "Reembolso de billete de avión en clase turista/económica de ida desde el puerto de embarque hasta el próximo puerto de parada del crucero si se pierde la salida del crucero por retraso del vuelo de conexión superior a 10 horas.",
+      "inclusion": "No incluido",
+      "valor_completo": "No aplica / do not apply",
       "tipo_valor": null,
       "valor": null,
       "medida": null,
-      "alcance": null,
+      "alcance": "Seguimiento de viaje / crucero",
       "limites": [],
       "condiciones": [
-        "Retraso del vuelo de conexión por más de 10 horas sobre la hora prevista."
+        "Pérdida de la salida del crucero causada por retraso del vuelo de conexión superior a 10 horas.",
+        "Billete reembolsado en clase turista/económica, ida solamente."
       ],
       "upgrades_ids": [],
-      "fuente": "CCGG",
+      "fuente": "Ambos",
       "exclusiones": []
     },
     {
@@ -1760,7 +1846,8 @@
       "alcance": "Sustitución de ejecutivo",
       "limites": [],
       "condiciones": [
-        "Beneficiario debe entregar documentos que avalen incapacidad y acrediten relación laboral con sustituto."
+        "Aplica cuando el BENEFICIARIO se encuentre en viaje de negocios en el extranjero solo y sea hospitalizado por una emergencia médica grave (accidente, COVID-19 o enfermedad no preexistente, recurrente o crónica) que le impida proseguir con su cometido profesional.",
+        "El BENEFICIARIO deberá entregar a la Central de Asistencias los documentos que avalen la incapacidad y documentos que acrediten tanto a él como al sustituto como trabajadores de la empresa."
       ],
       "upgrades_ids": [],
       "fuente": "Ambos",
@@ -1777,14 +1864,20 @@
       "tipo_valor": "USD",
       "valor": 8000,
       "medida": "USD",
-      "alcance": "Transferencia de fondos para fianza legal",
-      "limites": [],
+      "alcance": "Adelanto para fianza",
+      "limites": [
+        {
+          "descripcion": "Transferencia de fondos para fianza legal: USD 8.000 según voucher"
+        }
+      ],
       "condiciones": [
-        "Para fianza penal en caso de encarcelamiento por accidente de tránsito, se requiere depósito previo por terceros.",
-        "Beneficiario debe aceptar condiciones y leyes vigentes del país de ocurrencia.",
-        "Cuenta bancaria debe aceptar transferencias internacionales.",
-        "Gastos por devoluciones o trámites administrativos corren por cuenta del beneficiario.",
-        "Monto entregado será resultado del cambio a tasa oficial del país emisor."
+        "Requiere previo depósito por parte de un tercero a nombre del BENEFICIARIO en la oficina de NOMA.",
+        "Aplica una sola vez durante la vigencia del plan.",
+        "Se gestionará en el país donde se encuentre el BENEFICIARIO y quedará supeditado a las leyes vigentes en el país de ocurrencia.",
+        "NOMA asumirá únicamente el valor de la transacción internacional (comisión bancaria) realizada al BENEFICIARIO.",
+        "La cuenta bancaria receptora deberá aceptar transferencias internacionales.",
+        "Los gastos por devoluciones o trámites administrativos correrán por cuenta del BENEFICIARIO.",
+        "El monto entregado resultará del cambio a la tasa establecida por las autoridades financieras del país de donde se emite el pago."
       ],
       "upgrades_ids": [],
       "fuente": "Ambos",
@@ -1801,11 +1894,18 @@
       "tipo_valor": "USD",
       "valor": 8000,
       "medida": "USD",
-      "alcance": "Transferencia de fondos",
+      "alcance": "Transferencia de fondos en caso de urgencia",
       "limites": [],
-      "condiciones": [],
+      "condiciones": [
+        "Requiere previo depósito por parte de un tercero a nombre del BENEFICIARIO en la oficina de NOMA.",
+        "Aplica una sola vez durante la vigencia del plan.",
+        "NOMA asumirá únicamente el valor de la transacción internacional (comisión bancaria) realizada al BENEFICIARIO.",
+        "La autorización del servicio queda supeditada a las leyes vigentes en el país de ocurrencia y a las condiciones que establezca la Central de Asistencias.",
+        "La cuenta receptora deberá aceptar transferencias internacionales; los gastos administrativos o de devolución correrán por cuenta del BENEFICIARIO.",
+        "El monto entregado resultará del cambio a la tasa establecida por las autoridades financieras del país emisor del pago."
+      ],
       "upgrades_ids": [],
-      "fuente": "Voucher",
+      "fuente": "Ambos",
       "exclusiones": []
     },
     {
@@ -1822,8 +1922,10 @@
       "alcance": "Asistencia legal por accidente de tránsito",
       "limites": [],
       "condiciones": [
-        "Accidente debe ocurrir fuera del país de residencia y de emisión del producto.",
-        "Beneficiario debe remitir acta certificada del accidente, factura de honorarios, denuncia hotelera si aplica y recibos de arbitraje si corresponde."
+        "Debe notificarse a La Central de Asistencias dentro de las 24 horas de ocurrido el accidente.",
+        "Documentación requerida para el reintegro: acta de la ocurrencia emitida por la autoridad local, factura de honorarios del abogado, denuncia (si aplica) y recibos de pago de honorarios de arbitraje (si aplica).",
+        "Este servicio no contempla el pago de multas o penalizaciones impuestas al beneficiario.",
+        "La responsabilidad de NOMA es de reintegro, sin garantías sobre el resultado de la defensa."
       ],
       "upgrades_ids": [],
       "fuente": "Ambos",
@@ -1840,11 +1942,15 @@
       "tipo_valor": null,
       "valor": null,
       "medida": null,
-      "alcance": "Orientación juridica",
+      "alcance": "Orientación jurídica",
       "limites": [],
-      "condiciones": [],
+      "condiciones": [
+        "Servicio disponible 24 horas.",
+        "Aplicabilidad condicionada a que la legislación local permita asesorías de esta naturaleza.",
+        "No aplica si el motivo de la solicitud está relacionado con exclusiones generales del servicio."
+      ],
       "upgrades_ids": [],
-      "fuente": "Voucher",
+      "fuente": "Ambos",
       "exclusiones": []
     },
     {
@@ -1858,11 +1964,13 @@
       "tipo_valor": null,
       "valor": null,
       "medida": null,
-      "alcance": "Orientación en extravío de documentos, equipajes",
+      "alcance": "Documentos robados o extraviados",
       "limites": [],
-      "condiciones": [],
+      "condiciones": [
+        "NOMA asesorará para la denuncia del extravío o robo de equipaje y artículos personales y para la pérdida de documentos de viaje y/o tarjetas de crédito, proporcionando instrucciones para interponer las denuncias respectivas y tramitar su recuperación."
+      ],
       "upgrades_ids": [],
-      "fuente": "Voucher",
+      "fuente": "Ambos",
       "exclusiones": []
     },
     {
@@ -1876,12 +1984,19 @@
       "tipo_valor": "USD",
       "valor": 50,
       "medida": "USD",
-      "alcance": "Robo o pérdida de pasaporte exclusivamente en viaje",
-      "limites": [],
+      "alcance": "Robo o pérdida de pasaporte",
+      "limites": [
+        {
+          "descripcion": "Tope según monto indicado en el voucher."
+        },
+        {
+          "descripcion": "Aplicable exclusivamente en viaje según voucher"
+        }
+      ],
       "condiciones": [
         "En NOMA se requiere denuncia policial dentro de 24 horas y comprobantes del pasaporte provisional o salvoconducto.",
-        "Presentar denuncia policial radicada dentro de las 24 horas del hecho.",
-        "Presentar recibos de pago del pasaporte provisional."
+        "Denuncia policial radicada dentro de las 24 horas de ocurrido el hecho (si el robo fue en un hotel, incluir la denuncia de la administración).",
+        "Presentar recibos de pago del pasaporte provisional (salvoconducto) y demás documentación que la Central de Asistencias solicite."
       ],
       "upgrades_ids": [],
       "fuente": "Ambos",
@@ -2014,7 +2129,7 @@
       "limites": [],
       "condiciones": [],
       "upgrades_ids": [],
-      "fuente": "Voucher",
+      "fuente": "Ambos",
       "exclusiones": []
     },
     {
@@ -2023,16 +2138,16 @@
       "categoria": "equipaje",
       "nombre": "Localización de equipaje",
       "descripcion": "Asistencia para localizar equipaje extraviado.",
-      "inclusion": null,
-      "valor_completo": "Asesoría para denuncia de extravío o robo de equipaje y artículos personales, y para pérdida de documentos de viaje o tarjetas de crédito, con instrucciones para denuncias y recuperación.",
+      "inclusion": "Incluido",
+      "valor_completo": "Incluido / Including",
       "tipo_valor": null,
       "valor": null,
       "medida": null,
-      "alcance": null,
+      "alcance": "Localización de equipaje",
       "limites": [],
       "condiciones": [],
       "upgrades_ids": [],
-      "fuente": "CCGG",
+      "fuente": "Voucher",
       "exclusiones": []
     },
     {
@@ -2046,19 +2161,22 @@
       "tipo_valor": "USD",
       "valor": 50,
       "medida": "USD",
-      "alcance": "Compensación por daño de equipaje",
+      "alcance": "Equipaje protegido por daño o rotura",
       "limites": [],
       "condiciones": [
-        "La rotura debe ocurrir entre el embarque y la entrega del equipaje al beneficiario.",
-        "El beneficiario debe realizar denuncia ante la compañía aérea y presentarla a NOMA.",
-        "Notificar a la Central de Asistencias dentro de las 24 horas de emitida la denuncia.",
-        "NOMA reintegrará el costo total de reparación o precio de compra, sin superar el tope máximo.",
-        "Quedan excluidos daños estéticos, desgaste normal y daños indemnizados por la aerolínea.",
-        "NOMA puede requerir el envío del equipaje para verificación, con gastos de envío a cargo del beneficiario."
+        "La rotura o daño debe haber ocurrido entre el embarque del equipaje en bodega y su entrega al BENEFICIARIO al desembarcar.",
+        "El BENEFICIARIO debe realizar la denuncia pertinente ante la compañía aérea y presentarla a NOMA.",
+        "Notificar a la Central de Asistencias dentro de las 24 horas de emitido el formulario de denuncia ante la compañía aérea.",
+        "Se procederá al reintegro del importe detallado en el cuadro de prestaciones siempre que se demuestre el daño del equipaje.",
+        "NOMA podrá requerir el envío del equipaje al lugar que indique para verificación y valoración del daño; los gastos de envío correrán por cuenta del BENEFICIARIO."
       ],
       "upgrades_ids": [],
       "fuente": "Ambos",
-      "exclusiones": []
+      "exclusiones": [
+        "Daños estéticos y aquellos que no afecten la funcionalidad del bien.",
+        "Daños derivados del normal desgaste.",
+        "Si la aerolínea se hace responsable y indemnice al BENEFICIARIO, NOMA se exime de realizar cualquier pago."
+      ]
     },
     {
       "id_condicion": "compensacion_demora_equipaje",
@@ -2089,20 +2207,12 @@
       "tipo_valor": "USD",
       "valor": 350,
       "medida": "USD",
-      "alcance": "Compensación por pérdida de equipaje",
+      "alcance": "Equipaje protegido por pérdida",
       "limites": [],
       "condiciones": [
-        "No aplica para equipaje de mano o cabina no registrado.",
-        "No aplica para pérdidas en vuelos nacionales en país de residencia, vuelos charters, fletados, aviones particulares o militares, ni transporte terrestre entre aeropuerto y hotel o domicilio.",
-        "Compensación prorrateada si equipaje está a nombre de varios beneficiarios.",
-        "No se indemnizan faltantes parciales ni roturas salvo planes que lo contemplen.",
-        "Beneficiario debe presentar formulario P.I.R. original, plan adquirido, recibo de indemnización de aerolínea y otros documentos requeridos.",
-        "Beneficiario tiene hasta 30 días continuos después del pago de la aerolínea para enviar soportes para evaluación.",
-        "No se considera contenido ni valor real del equipaje.",
-        "NOMA actúa como intermediario y no es responsable directo de pérdida o búsqueda.",
-        "NOMA no reembolsa si aerolínea paga igual o más que el tope del plan.",
-        "Se deducirá del monto indemnizado cualquier compensación previa por demora en devolución de equipaje.",
-        "Beneficiario debe avisar a Central o Reembolsos en 48 horas tras indemnización de aerolínea."
+        "Si la aerolínea reembolsa igual o más que la tabla de beneficios, NOMA se exime de realizar el reembolso.",
+        "En caso de haber recibido compensación por demora en la devolución del equipaje, NOMA deducirá del monto a indemnizar la suma ya pagada por concepto de demora.",
+        "El BENEFICIARIO tiene hasta 48 horas para avisar a la Central y/o Reembolsos una vez haya recibido la indemnización por parte de la aerolínea."
       ],
       "upgrades_ids": [],
       "fuente": "Ambos",
@@ -2119,24 +2229,25 @@
       "tipo_valor": "USD",
       "valor": 200,
       "medida": "USD",
-      "alcance": "Garantía por gastos de cancelación multicausa",
+      "alcance": "Cancelación, reprogramación e interrupción de viaje",
       "limites": [],
       "condiciones": [
-        "No aplica si gastos fueron reintegrados por operador turístico, línea aérea, empresa de transporte o hotelera.",
-        "No aplica si agencia o tour operador se declaró en quiebra.",
-        "En caso de reintegros parciales, NOMA completará hasta tope contratado.",
-        "En planes Multiviajes, aplica solo para primer viaje posterior a contratación.",
-        "Contratar el plan con una diferencia de hasta 72 horas siguientes a la realización del primer abono del paquete turístico y/o crucero, siempre que no haya iniciado el periodo de penalidades publicado por la agencia de viajes o naviera.",
-        "Dar aviso a la Central de Asistencias en un máximo de 24 horas luego de ocurrido el evento que motiva la cancelación.",
-        "Presentar documentación que NOMA considere para evaluar la cobertura, incluyendo antecedentes médicos, documentos justificativos del siniestro, facturas y recibos de pago, estados de cuenta y documentos que exhiban el periodo de penalidades.",
-        "No serán reembolsables pasajes sujetos a disponibilidad de espacio, descuentos, canje de millas, ni pasajes o cruceros con condición No Reembolsables.",
-        "Si al momento de la contratación del viaje ya correspondiera algún cargo o penalidad por cancelación, este será deducido del monto de indemnización.",
-        "Causas justificadas incluyen fallecimiento, accidente o enfermedad grave no preexistente, recurrente o crónica del beneficiario o familiar directo, hospitalización de familiar directo, convocatorias judiciales o electorales, daños en residencia habitual o locales profesionales, cuarentena médica declarada por autoridad competente, convocatoria de emergencia para servicio militar, médico o público, epidemias o catástrofes naturales declaradas oficialmente, y cancelación por acompañante con plan en las mismas condiciones."
+        "El beneficiario tiene hasta 24 horas antes del inicio del viaje para activar el beneficio notificando a La Central de Asistencias.",
+        "Si se realizaron pagos parciales, la garantía se reduce en porcentaje igual a lo abonado sobre el total del paquete hasta el tope de cobertura.",
+        "Si los importes fueron reintegrados por el operador (total o parcial), NOMA no otorgará duplicidad de reintegro; en caso de reintegro parcial por el prestador, NOMA complementará hasta el tope contratado.",
+        "En planes Multiviajes, el beneficio aplicará únicamente para el primer viaje realizado posterior a la contratación del servicio.",
+        "Una vez solicitada la cobertura, el beneficiario tendrá hasta 30 días continuos para el envío de toda la documentación.",
+        "Contratar el plan dentro de las 72 horas siguientes a la realización del primer abono del paquete turístico y/o crucero, siempre que no haya iniciado el periodo de penalidades publicado por la agencia o naviera.",
+        "Dar aviso a La Central de Asistencias en un máximo de 24 horas luego de ocurrido el evento que motiva la cancelación.",
+        "Presentar la documentación que NOMA considere necesaria para evaluar la cobertura (antecedentes médicos, copia del documento justificativo del siniestro, facturas y recibos de pago del viaje, factura de gastos de cancelación o nota de abono, estados de cuenta que reflejen los montos abonados, cuadro o documento de penalidades publicado por la agencia o naviera).",
+        "Los eventos deben suceder con posterioridad a la contratación del Plan y la cobertura pierde efecto una vez inicie la vigencia del voucher."
       ],
       "upgrades_ids": [],
       "fuente": "Ambos",
       "exclusiones": [
-        "Cancelaciones ocasionadas por emanaciones de cenizas volcánicas en planes Crucero no serán contempladas como causa justificada."
+        "Pasajes sujetos a disponibilidad de espacio, con descuento o mediante canje de millas, y pasajes con condición No Reembolsables no serán reembolsables.",
+        "Penalidad a consecuencia de la reprogramación total o parcial del viaje no será reembolsada.",
+        "Los montos de cargos o penalidades existentes al momento de la contratación serán deducidos del reembolso."
       ]
     },
     {
@@ -2164,16 +2275,14 @@
       "nombre": "Cancelación de viaje por evento múltiple",
       "descripcion": "Monto máximo de cancelación/interrupción asociado a eventos múltiples.",
       "inclusion": null,
-      "valor_completo": "En eventos que involucren a más de un beneficiario con productos de inclusión, mayoreo o categoría Low Cost, la responsabilidad máxima conjunta de NOMA será USD 500,000 distribuida a prorrata entre los beneficiarios, manteniendo el límite máximo individual indicado en el voucher.",
-      "tipo_valor": null,
-      "valor": null,
-      "medida": null,
+      "valor_completo": "Eventos múltiples: responsabilidad máxima de USD 500.000,00 por todos los Beneficiarios afectados, distribuida prorrata según número de Beneficiarios y límites indicados en el voucher.",
+      "tipo_valor": "moneda",
+      "valor": 500000,
+      "medida": "USD",
       "alcance": null,
       "limites": [],
       "condiciones": [
-        "Aplica para eventos con lesiones o fallecimientos de más de un beneficiario.",
-        "Límites de gastos de asistencia médica por accidente o muerte no son acumulativos, aplicando solo uno según causa.",
-        "Indemnizaciones individuales se efectuarán a prorrata si superan el límite máximo conjunto."
+        "Monto máximo de responsabilidad por accidentes y/o fallecimientos que contemplen el producto; en caso de que la suma de indemnizaciones supere este monto, cada indemnización individual será efectuada a prorrata de la responsabilidad máxima definida en el voucher."
       ],
       "upgrades_ids": [],
       "fuente": "CCGG",
