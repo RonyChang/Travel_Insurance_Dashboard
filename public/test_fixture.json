@@ -1,0 +1,33 @@
+{
+  "compania": "Test Insurance Co",
+  "plan": "Test Plan Basic",
+  "plan_nombre_archivo": "test_basic.json",
+  "plan_codigo": "TEST-001",
+  "empresa": {
+    "nombre_comercial": "Test Co",
+    "nombre_legal": "Test Insurance S.A.",
+    "pais_origen": "Chile",
+    "sitio_web": "https://test.com",
+    "email_contacto": "info@test.com"
+  },
+  "coberturas": [
+    {
+      "id": "COB-001",
+      "nombre": "Gastos Médicos",
+      "descripcion": "Cobertura de gastos médicos de emergencia",
+      "inclusion": "Incluido",
+      "valor": 50000,
+      "moneda": "USD",
+      "upgrades_ids": []
+    }
+  ],
+  "exclusiones_generales": [
+    "Viajes pre-existentes",
+    "Actividades de alto riesgo"
+  ],
+  "upgrades": [],
+  "metadata": {
+    "fecha_creacion": "2024-04-28",
+    "version": "1.0"
+  }
+}

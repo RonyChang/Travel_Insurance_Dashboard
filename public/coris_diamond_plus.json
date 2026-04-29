@@ -1,0 +1,2136 @@
+{
+  "version_schema": "9.0.0",
+  "compania": "CORIS",
+  "empresa": {
+    "nombre_comercial": "CORIS ASISTENCIA AL VIAJERO",
+    "nombre_legal": "APRIL CHILE SEGUROS Y ASISTENCIA LIMITADA",
+    "pais_origen": "Chile",
+    "sitio_web": "www.coris.com.ar",
+    "email_contacto": null,
+    "telefono_contacto": null,
+    "direccion": null,
+    "notas": [
+      "CORIS ASISTENCIA AL VIAJERO no es una compañía de seguros ni suscribe póliza de seguro alguna con los titulares.",
+      "Los seguros contenidos en los planes de asistencia CORIS se brindan a los titulares de los certificados o vouchers y se emiten según disposiciones legales locales.",
+      "CORIS se reserva el derecho de modificar o suspender coberturas sin previo aviso conforme a la legislación del país emisor.",
+      "Los seguros se otorgan únicamente a residentes en el país de emisión de los certificados o vouchers CORIS emitidos localmente.",
+      "No se otorgan coberturas a extensiones o renovaciones de certificados o vouchers solicitados de otros países, salvo que se adquieran y abonen exclusivamente en el país de emisión original."
+    ],
+    "fuente": "CCGG"
+  },
+  "plan": "DIAMOND PLUS",
+  "plan_nombre_archivo": "diamond plus",
+  "plan_codigo": "diamond-plus",
+  "idioma_base": "es",
+  "cobertura_territorial": {
+    "ambito": "Mundial excepto País de residencia",
+    "paises_incluidos": [],
+    "regiones_incluidas": [],
+    "paises_excluidos": [],
+    "excluye_pais_residencia": true,
+    "notas": [
+      "Los servicios de asistencia se prestan en casos de urgencia imprevista en el exterior o nacionalmente excepto en la ciudad de residencia habitual.",
+      "Cobertura mundial excepto país de residencia del titular.",
+      "Zona Schengen incluye Unión Europea, Islandia, Noruega, Reino Unido y Suiza, con tope diferencial fuera de esta zona.",
+      "Regional incluye países limítrofes al país de residencia y nacional excepto dentro de 100 km del lugar de residencia habitual.",
+      "Nacional cubre país de residencia excepto dentro de 100 km del lugar de residencia habitual.",
+      "Productos COACH, INTERNATIONAL y GLOBAL excluyen USA y país de residencia, salvo INTERNATIONAL USA y GLOBAL USA que incluyen USA.",
+      "Máximo de días: 120 días",
+      "Límite de edad: Hasta 75/85 con incremento del 50%"
+    ],
+    "fuente": "Ambos"
+  },
+  "exclusiones_generales": [
+    {
+      "id_exclusion": "preexistencias_cronicas_recurrentes",
+      "categoria": "medica",
+      "nombre": "Enfermedades preexistentes, cronicas o recurrentes",
+      "descripcion": "Quedan expresamente excluidas todas las prestaciones de asistencia y garantías para enfermedades crónicas o preexistentes, congénitas o recurrentes conocidas o no por el titular, padecidas con anterioridad al inicio de la vigencia del certificado o voucher y/o del viaje, así como sus agudizaciones y consecuencias, salvo lo especificado en cláusula (24).",
+      "inclusion": "Incluido",
+      "condiciones": [],
+      "excepciones": [],
+      "fuente": "CCGG"
+    },
+    {
+      "id_exclusion": "atencion_no_autorizada",
+      "categoria": "operativa",
+      "nombre": "Atencion o gastos no autorizados",
+      "descripcion": "No serán aceptados pedidos de reembolso sin justificación ni autorizaciones previas para gastos de hotel u otros servicios.",
+      "inclusion": "Incluido",
+      "condiciones": [],
+      "excepciones": [],
+      "fuente": "CCGG"
+    },
+    {
+      "id_exclusion": "tratamientos_alternativos_no_convencionales",
+      "categoria": "medica",
+      "nombre": "Tratamientos alternativos o no convencionales",
+      "descripcion": "Se excluyen tratamientos homeopáticos, acupuntura, quinesioterapia, curas termales, podología, kinesiología, fisioterapia y tratamientos de medicina alternativa en general.",
+      "inclusion": "Incluido",
+      "condiciones": [],
+      "excepciones": [],
+      "fuente": "CCGG"
+    },
+    {
+      "id_exclusion": "actos_ilicitos_dolosos_o_rinas",
+      "categoria": "conducta",
+      "nombre": "Actos ilicitos, dolosos, rinas o mala fe",
+      "descripcion": "Se excluyen afecciones, enfermedades o lesiones derivadas de actuaciones delictivas o contravencionales del titular, directa o indirectamente.",
+      "inclusion": "Incluido",
+      "condiciones": [],
+      "excepciones": [
+        "Puede exceptuarse legitima defensa si el contrato lo indica y se acredita."
+      ],
+      "fuente": "CCGG"
+    },
+    {
+      "id_exclusion": "alcohol_drogas_o_medicacion_sin_prescripcion",
+      "categoria": "conducta",
+      "nombre": "Alcohol, drogas o medicacion sin prescripcion",
+      "descripcion": "Se excluyen enfermedades, lesiones o estados patológicos producidos por ingesta de alcohol, drogas, narcóticos, tóxicos o medicamentos utilizados sin prescripción médica.",
+      "inclusion": "Incluido",
+      "condiciones": [],
+      "excepciones": [],
+      "fuente": "CCGG"
+    },
+    {
+      "id_exclusion": "protesis_ortesis_y_ayudas_mecanicas",
+      "categoria": "medica",
+      "nombre": "Protesis, ortesis y ayudas mecanicas",
+      "descripcion": "Se excluyen gastos por prótesis, ortesis, síntesis, lentes, audífonos, férulas, muletas, sillas de ruedas, artículos ortopédicos u otras ayudas mecánicas, salvo excepción expresa.",
+      "inclusion": "Incluido",
+      "condiciones": [],
+      "excepciones": [],
+      "fuente": "CCGG"
+    },
+    {
+      "id_exclusion": "deportes_riesgo_competencia_o_profesionales",
+      "categoria": "deportes",
+      "nombre": "Deportes de riesgo, competencias o practica profesional",
+      "descripcion": "Eventos derivados de deportes peligrosos, extremos, de alto riesgo, competencias, entrenamientos, practica profesional o actividades fuera de pistas, senderos o condiciones autorizadas.",
+      "inclusion": "No incluido",
+      "condiciones": [],
+      "excepciones": [
+        "Puede aplicar si el plan o upgrade contempla deportes."
+      ],
+      "fuente": null
+    },
+    {
+      "id_exclusion": "embarazo_parto_aborto_y_controles",
+      "categoria": "medica",
+      "nombre": "Embarazo, parto, aborto y controles ginecologicos",
+      "descripcion": "Se excluyen diagnóstico, control, seguimiento y tratamiento de embarazos, partos, abortos y sus consecuencias, salvo que sean producto de un accidente.",
+      "inclusion": "Incluido",
+      "condiciones": [],
+      "excepciones": [
+        "Puede aplicar si el plan o upgrade contempla complicaciones de embarazo."
+      ],
+      "fuente": "CCGG"
+    },
+    {
+      "id_exclusion": "salud_mental_psiquiatrica_o_psicologica",
+      "categoria": "medica",
+      "nombre": "Salud mental, psiquiatrica o psicologica",
+      "descripcion": "Se excluyen enfermedades mentales, psicológicas o psiquiátricas, crisis nerviosas, ansiedad, depresión, trastornos del sueño o alimentarios y sus tratamientos, salvo beneficio expresamente cubierto.",
+      "inclusion": "Incluido",
+      "condiciones": [],
+      "excepciones": [],
+      "fuente": "CCGG"
+    },
+    {
+      "id_exclusion": "vih_sida_ets_y_enfermedades_venereas",
+      "categoria": "medica",
+      "nombre": "VIH, SIDA, ETS y enfermedades venereas",
+      "descripcion": "Se excluyen VIH, SIDA, enfermedades de transmisión sexual o venéreas, sus secuelas, consecuencias, exámenes o tratamientos.",
+      "inclusion": "Incluido",
+      "condiciones": [],
+      "excepciones": [],
+      "fuente": "CCGG"
+    },
+    {
+      "id_exclusion": "epidemias_pandemias_endemias_sin_cumplimiento_sanitario",
+      "categoria": "medica",
+      "nombre": "Epidemias, pandemias o endemias sin cumplimiento sanitario",
+      "descripcion": "Se excluyen enfermedades endémicas, epidémicas o pandémicas o asistencias relacionadas cuando el beneficiario no haya seguido restricciones de viaje, profilaxis, vacunación o indicaciones sanitarias aplicables.",
+      "inclusion": "Incluido",
+      "condiciones": [],
+      "excepciones": [
+        "Puede aplicar si el plan contempla cobertura especifica por epidemia, pandemia o COVID-19."
+      ],
+      "fuente": "CCGG"
+    },
+    {
+      "id_exclusion": "catastrofes_fuerza_mayor_radiacion_o_nuclear",
+      "categoria": "fuerza_mayor",
+      "nombre": "Catastrofes, fuerza mayor, radiacion o eventos nucleares",
+      "descripcion": "Se excluyen eventos derivados de terremotos, huracanes, inundaciones, catástrofes naturales, fuerza mayor, radiación nuclear, radioactividad u otros fenómenos extraordinarios.",
+      "inclusion": "Incluido",
+      "condiciones": [],
+      "excepciones": [],
+      "fuente": "CCGG"
+    },
+    {
+      "id_exclusion": "suicidio_o_lesiones_autoinfligidas",
+      "categoria": "conducta",
+      "nombre": "Suicidio o lesiones autoinfligidas",
+      "descripcion": "Se excluyen suicidio, intento de suicidio, autodestrucción o lesiones causadas intencionalmente por el beneficiario a sí mismo.",
+      "inclusion": "Incluido",
+      "condiciones": [],
+      "excepciones": [],
+      "fuente": "CCGG"
+    },
+    {
+      "id_exclusion": "guerra_terrorismo_o_alteracion_orden_publico",
+      "categoria": "fuerza_mayor",
+      "nombre": "Guerra, terrorismo o alteracion grave del orden publico",
+      "descripcion": "Se excluyen eventos derivados de guerra declarada o no, invasión, hostilidades, terrorismo, rebelión, insurrección, motines, tumultos, manifestaciones o alteración grave del orden público.",
+      "inclusion": "Incluido",
+      "condiciones": [],
+      "excepciones": [],
+      "fuente": "CCGG"
+    },
+    {
+      "id_exclusion": "chequeos_rutina_preventivos_o_seguimiento",
+      "categoria": "medica",
+      "nombre": "Chequeos de rutina, preventivos o seguimiento",
+      "descripcion": "Examenes de rutina, chequeos preventivos, controles, seguimiento de tratamientos, estudios diagnosticos no vinculados a emergencia cubierta o reposicion de medicamentos de uso habitual.",
+      "inclusion": "No incluido",
+      "condiciones": [],
+      "excepciones": [],
+      "fuente": null
+    },
+    {
+      "id_exclusion": "gastos_extras_hotel_restaurante_transporte_o_acompanantes",
+      "categoria": "gastos",
+      "nombre": "Gastos extras, hotel, restaurante, transporte o acompanantes",
+      "descripcion": "Gastos extras de hotel, restaurante, lavanderia, minibar, telefonia, taxis, transportes, desplazamientos o acompanantes no expresamente cubiertos o autorizados.",
+      "inclusion": "No incluido",
+      "condiciones": [],
+      "excepciones": [],
+      "fuente": null
+    },
+    {
+      "id_exclusion": "enfermedades_congenitas_geneticas_o_deformaciones",
+      "categoria": "medica",
+      "nombre": "Enfermedades congenitas, geneticas o deformaciones",
+      "descripcion": "Patologias congenitas, geneticas, fenotipicas, deformaciones conocidas o no, sus controles, estudios, secuelas o consecuencias.",
+      "inclusion": "No incluido",
+      "condiciones": [],
+      "excepciones": [],
+      "fuente": null
+    },
+    {
+      "id_exclusion": "aeronaves_no_autorizadas_o_transporte_no_publico",
+      "categoria": "transporte",
+      "nombre": "Aeronaves no autorizadas o transporte no publico",
+      "descripcion": "Accidentes o eventos en aviones, aeronaves, helicopteros, vuelos fletados, particulares o medios de transporte no destinados ni autorizados como transporte publico regular.",
+      "inclusion": "No incluido",
+      "condiciones": [],
+      "excepciones": [],
+      "fuente": null
+    },
+    {
+      "id_exclusion": "riesgos_profesionales_o_laborales",
+      "categoria": "laboral",
+      "nombre": "Riesgos profesionales o laborales",
+      "descripcion": "Eventos derivados de trabajos, tareas o actividades laborales de riesgo profesional, accidentes laborales, enfermedades profesionales o esfuerzos repetitivos relacionados al trabajo.",
+      "inclusion": "No incluido",
+      "condiciones": [],
+      "excepciones": [],
+      "fuente": null
+    },
+    {
+      "id_exclusion": "situacion_migratoria_o_laboral_ilegal",
+      "categoria": "legal",
+      "nombre": "Situacion migratoria o laboral ilegal",
+      "descripcion": "Asistencias solicitadas por beneficiarios en situacion migratoria o laboral ilegal, trabajo no declarado o actividades no autorizadas por las autoridades locales.",
+      "inclusion": "No incluido",
+      "condiciones": [],
+      "excepciones": [],
+      "fuente": null
+    },
+    {
+      "id_exclusion": "viaje_para_tratamiento_o_contra_indicacion_medica",
+      "categoria": "medica",
+      "nombre": "Viaje para tratamiento o contra indicacion medica",
+      "descripcion": "Eventos cuando el motivo del viaje sea recibir tratamiento medico en destino, continuar tratamiento de enfermedad de base, comprar medicamentos o viajar contra recomendacion medica.",
+      "inclusion": "No incluido",
+      "condiciones": [],
+      "excepciones": [],
+      "fuente": null
+    },
+    {
+      "id_exclusion": "hernias_y_consecuencias",
+      "categoria": "medica",
+      "nombre": "Hernias y sus consecuencias",
+      "descripcion": "Hernias de cualquier tipo, sus complicaciones, tratamientos o consecuencias, cuando el contrato las excluye expresamente.",
+      "inclusion": "No incluido",
+      "condiciones": [],
+      "excepciones": [],
+      "fuente": null
+    },
+    {
+      "id_exclusion": "secuestro_o_intento",
+      "categoria": "seguridad",
+      "nombre": "Secuestro o intento de secuestro",
+      "descripcion": "Eventos derivados de secuestro o intento de secuestro.",
+      "inclusion": "No incluido",
+      "condiciones": [],
+      "excepciones": [],
+      "fuente": null
+    },
+    {
+      "id_exclusion": "elementos_financieros_o_valores",
+      "categoria": "objetos_personales",
+      "nombre": "Elementos financieros, dinero o valores",
+      "descripcion": "Robo, hurto, perdida o dano de dinero, tarjetas, documentos financieros, valores, cheques u otros elementos financieros no cubiertos.",
+      "inclusion": "No incluido",
+      "condiciones": [],
+      "excepciones": [],
+      "fuente": null
+    }
+  ],
+  "upgrades": [
+    {
+      "id_upgrade": "upg_covid_75_plus",
+      "nombre": "COVID +75 años",
+      "descripcion": "Amplía la cobertura médica por COVID-19 para beneficiarios de 75 años o más.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "condiciones": [
+        "Requiere plan base igual o superior a USD/EUR 30.000.",
+        "No cubre gastos de cuarentena en hotel."
+      ],
+      "categorias_afectadas": [
+        "asistencia_medica"
+      ],
+      "coberturas_relacionadas_ids": [
+        "medica_covid"
+      ],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_upgrade": "upg_preexistencias_extra",
+      "nombre": "Preexistencias extra",
+      "descripcion": "Extiende la asistencia médica de emergencia para enfermedades preexistentes o crónicas.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "condiciones": [
+        "Mantiene condiciones de la cobertura de preexistencias del contrato principal.",
+        "Límite de edad observado en CCGG: hasta 74 años.",
+        "En Coris se observa como beneficio válido previa contratación por upgrade."
+      ],
+      "categorias_afectadas": [
+        "asistencia_medica"
+      ],
+      "coberturas_relacionadas_ids": [
+        "medica_preexistencias"
+      ],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_upgrade": "upg_deportes_extra",
+      "nombre": "Deportes de riesgo",
+      "descripcion": "Amplía cobertura para accidentes derivados de deportes de mayor riesgo definidos en CCGG.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "condiciones": [
+        "Aplica a deportes listados en CCGG.",
+        "Límite de edad observado en CCGG: 15 a 65 años."
+      ],
+      "categorias_afectadas": [
+        "asistencia_medica"
+      ],
+      "coberturas_relacionadas_ids": [
+        "medica_deporte_amateur"
+      ],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_upgrade": "upg_deportes_extremos",
+      "nombre": "Deportes extremos",
+      "descripcion": "Amplía cobertura para deportes extremos definidos en CCGG.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "condiciones": [
+        "Aplica a deportes extremos listados en CCGG.",
+        "Límite de edad observado en CCGG: 15 a 65 años."
+      ],
+      "categorias_afectadas": [
+        "asistencia_medica"
+      ],
+      "coberturas_relacionadas_ids": [
+        "medica_deporte_amateur"
+      ],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_upgrade": "upg_futura_mama",
+      "nombre": "Futura mamá",
+      "descripcion": "Cobertura adicional para emergencias de embarazo durante el viaje.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "condiciones": [
+        "Venta permitida hasta semana 32 de gestación.",
+        "Vigencia máxima observada en CCGG: 30 días.",
+        "Límite de edad observado en CCGG: 19 a 45 años."
+      ],
+      "categorias_afectadas": [
+        "asistencia_medica"
+      ],
+      "coberturas_relacionadas_ids": [
+        "medica_embarazo_complicaciones"
+      ],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_upgrade": "upg_cancelacion_todo_concepto",
+      "nombre": "Cancelación, reprogramación e interrupción todo concepto",
+      "descripcion": "Suplemento o upgrade para ampliar el reembolso de gastos de cancelación, reprogramación o interrupción de viaje.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "condiciones": [
+        "Se detalla en el voucher si el producto adquirido lo incluye.",
+        "En Coris debe emitirse y abonarse dentro de las primeras 24 horas posteriores al pago del paquete turístico."
+      ],
+      "categorias_afectadas": [
+        "otros_beneficios"
+      ],
+      "coberturas_relacionadas_ids": [
+        "cancelacion_multicausa_evento_multiple",
+        "cancelacion_multicausa"
+      ],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_upgrade": "upg_coronavirus",
+      "nombre": "Coronavirus",
+      "descripcion": "Upgrade Intermac asociado a cobertura por COVID-19 y beneficios de cancelación o interrupción por diagnóstico positivo cuando corresponda.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "condiciones": [
+        "Puede incluir asistencia por telemedicina durante aislamiento obligatorio."
+      ],
+      "categorias_afectadas": [
+        "asistencia_medica",
+        "otros_beneficios"
+      ],
+      "coberturas_relacionadas_ids": [
+        "medica_covid",
+        "cancelacion_multicausa",
+        "telemedicina"
+      ],
+      "fuente": null,
+      "exclusiones": []
+    }
+  ],
+  "coberturas": [
+    {
+      "id_condicion": "medica_tope_evento",
+      "tipo_cobertura": "medica",
+      "categoria": "asistencia_medica",
+      "nombre": "Tope máximo global médico",
+      "descripcion": "Monto máximo global o tope principal de asistencia médica indicado por el plan.",
+      "inclusion": null,
+      "valor_completo": "Tope máximo global de asistencia médica por accidente o enfermedad hasta USD 250,000 por persona y hasta USD 500,000 acumulado máximo por evento múltiple o catástrofe.",
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [
+        "En caso de concurrencia de damnificados se establece resarcimiento a prorrata hasta cubrir el límite máximo.",
+        "Solo para enfermedades o accidentes repentinos, agudos e imprevistos contraídos durante la vigencia del certificado o voucher."
+      ],
+      "upgrades_ids": [],
+      "fuente": "CCGG",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "medica_covid",
+      "tipo_cobertura": "medica",
+      "categoria": "asistencia_medica",
+      "nombre": "Asistencia médica por COVID-19",
+      "descripcion": "Cobertura médica específica para atención por COVID-19 durante el viaje.",
+      "inclusion": "Incluido",
+      "valor_completo": "Incluido en el tope de cobertura de Asistencia Médica",
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": "Asistencia médica por COVID19",
+      "limites": [
+        {
+          "descripcion": "Incluido dentro del monto máximo global de asistencia médica"
+        }
+      ],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": "Voucher",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "covid_reprogramacion_vuelo",
+      "tipo_cobertura": "viaje",
+      "categoria": "covid",
+      "nombre": "Reprogramación de vuelo por COVID-19",
+      "descripcion": "Gastos de reprogramación de vuelo asociados a COVID-19 cuando el voucher lo indique.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "medica_epidemia",
+      "tipo_cobertura": "medica",
+      "categoria": "asistencia_medica",
+      "nombre": "Asistencia médica por epidemia",
+      "descripcion": "Cobertura médica para enfermedades ocasionadas por epidemia cuando el voucher lo indique.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "covid_hotel_cuarentena",
+      "tipo_cobertura": "hospedaje",
+      "categoria": "covid",
+      "nombre": "Alimentación y alojamiento por cuarentena o aislamiento COVID-19",
+      "descripcion": "Gastos adicionales de alimentación, alojamiento u hotel por cuarentena, reposo o aislamiento médico asociado a COVID-19 cuando el voucher lo indique.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [
+        "Puede tener tope específico o aplicar el mínimo exigido por la autoridad del país de destino."
+      ],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "covid_cremacion_repatriacion_restos",
+      "tipo_cobertura": "fallecimiento",
+      "categoria": "covid",
+      "nombre": "Cremación y repatriación de restos por COVID-19",
+      "descripcion": "Gastos de cremación, traslado de cenizas o repatriación de restos cuando el fallecimiento sea por COVID-19 y el voucher lo indique.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [
+        "Debe solicitarse dentro del plazo y bajo protocolos sanitarios del país donde ocurra el fallecimiento."
+      ],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "medica_enfermedad_no_preexistente",
+      "tipo_cobertura": "medica",
+      "categoria": "asistencia_medica",
+      "nombre": "Asistencia médica por enfermedad",
+      "descripcion": "Cobertura médica por enfermedad repentina, aguda y no preexistente durante el viaje.",
+      "inclusion": "Incluido",
+      "valor_completo": "USD 110.000 (monto global)",
+      "tipo_valor": "USD",
+      "valor": 110000,
+      "medida": "USD",
+      "alcance": "Asistencia médica en caso de enfermedad",
+      "limites": [
+        {
+          "descripcion": "Monto global USD 110.000"
+        }
+      ],
+      "condiciones": [
+        "Tratamiento no es definitivo sino para continuar viaje o repatriación.",
+        "Atención médica previa autorización del Departamento Médico del proveedor.",
+        "Excluye enfermedades preexistentes."
+      ],
+      "upgrades_ids": [],
+      "fuente": "Ambos",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "medica_accidente",
+      "tipo_cobertura": "medica",
+      "categoria": "asistencia_medica",
+      "nombre": "Asistencia médica por accidente",
+      "descripcion": "Cobertura médica por lesiones o dolencias derivadas de accidente durante el viaje.",
+      "inclusion": "Incluido",
+      "valor_completo": "USD 110.000 (monto global)",
+      "tipo_valor": "USD",
+      "valor": 110000,
+      "medida": "USD",
+      "alcance": "Asistencia Médica en caso Accidente",
+      "limites": [
+        {
+          "descripcion": "Monto global USD 110.000"
+        }
+      ],
+      "condiciones": [
+        "Atención médica previa autorización del Departamento Médico del proveedor.",
+        "Incluye consultas médicas, atención por especialistas, exámenes complementarios, internación, intervenciones quirúrgicas, terapia intensiva y traslado sanitario.",
+        "Repatriación sanitaria autorizada y justificada médicamente.",
+        "Repatriación en avión comercial clase turista o medio adecuado con acompañamiento médico si corresponde."
+      ],
+      "upgrades_ids": [],
+      "fuente": "Ambos",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "muerte_accidental_transporte_publico",
+      "tipo_cobertura": "accidente",
+      "categoria": "seguros_contenidos",
+      "nombre": "Muerte accidental en transporte público",
+      "descripcion": "Seguro o indemnización por fallecimiento accidental del beneficiario mientras viaja como pasajero en transporte público autorizado.",
+      "inclusion": null,
+      "valor_completo": "Cobertura de muerte accidental en transporte público con límite agregado por catástrofe de hasta USD 500,000 acumulado máximo por evento.",
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [
+        "El beneficiario debe viajar como pasajero, no como piloto, conductor ni miembro de tripulación.",
+        "El siniestro debe reportarse dentro de 72 horas de ocurrido el evento.",
+        "Aplica solo para pasajeros, no para miembros de tripulación, pilotos o conductores",
+        "Medios de transporte regulados por ente estatal",
+        "Excluye accidentes en vuelos no regulares no operados por líneas aéreas comerciales habilitadas"
+      ],
+      "upgrades_ids": [],
+      "fuente": "CCGG",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "invalidez_total_permanente_accidente",
+      "tipo_cobertura": "accidente",
+      "categoria": "seguros_contenidos",
+      "nombre": "Invalidez total y permanente por accidente",
+      "descripcion": "Seguro o indemnización por invalidez total y permanente del beneficiario como consecuencia de accidente durante el viaje.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "medica_preexistencias",
+      "tipo_cobertura": "medica",
+      "categoria": "asistencia_medica",
+      "nombre": "Asistencia por preexistencias",
+      "descripcion": "Cobertura médica para enfermedad preexistente o crónica bajo límites del plan.",
+      "inclusion": "Incluido",
+      "valor_completo": "USD 10.000",
+      "tipo_valor": "USD",
+      "valor": 10000,
+      "medida": "USD",
+      "alcance": "Asistencia médica por Enfermedad crónica o preexistente",
+      "limites": [
+        {
+          "descripcion": "Monto máximo USD 10.000"
+        }
+      ],
+      "condiciones": [
+        "En Coris, cubre solo la primera atención o un episodio agudo de enfermedad crónica o preexistente, según tope del plan.",
+        "No contempla seguimientos, controles ni tratamientos de la enfermedad preexistente."
+      ],
+      "upgrades_ids": [],
+      "fuente": "Voucher",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "medica_especialistas",
+      "tipo_cobertura": "medica",
+      "categoria": "asistencia_medica",
+      "nombre": "Atención por especialistas",
+      "descripcion": "Atención médica por especialistas según red y condiciones del producto.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "opinion_medica_especializada",
+      "tipo_cobertura": "medica",
+      "categoria": "asistencia_medica",
+      "nombre": "Opinión médica especializada",
+      "descripcion": "Servicio de segunda opinión médica especializada con base en exámenes o antecedentes del beneficiario.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "medica_examenes_complementarios",
+      "tipo_cobertura": "medica",
+      "categoria": "asistencia_medica",
+      "nombre": "Exámenes médicos complementarios",
+      "descripcion": "Cobertura de análisis, radiografías, electrocardiogramas u otros estudios indicados y autorizados.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "medica_terapias_recuperacion",
+      "tipo_cobertura": "medica",
+      "categoria": "asistencia_medica",
+      "nombre": "Terapias de recuperación",
+      "descripcion": "Cobertura de terapias de recuperación física autorizadas por indicación médica.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "medica_internacion",
+      "tipo_cobertura": "medica",
+      "categoria": "asistencia_medica",
+      "nombre": "Internación",
+      "descripcion": "Cobertura de internación u hospitalización indicada por el equipo médico autorizado.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "medica_intervencion_quirurgica",
+      "tipo_cobertura": "medica",
+      "categoria": "asistencia_medica",
+      "nombre": "Intervenciones quirúrgicas",
+      "descripcion": "Cobertura de intervenciones quirúrgicas urgentes autorizadas durante el viaje.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [
+        "Si es posible el regreso al país para cirugía, se procederá a la devolución del paciente al país de origen, quien debe aceptar esta solución."
+      ],
+      "upgrades_ids": [],
+      "fuente": "CCGG",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "medica_terapia_intensiva",
+      "tipo_cobertura": "medica",
+      "categoria": "asistencia_medica",
+      "nombre": "Terapia intensiva y unidad coronaria",
+      "descripcion": "Cobertura de terapia intensiva o unidad coronaria cuando la naturaleza de la enfermedad o lesión lo requiera.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "medica_dias_internacion",
+      "tipo_cobertura": "medica",
+      "categoria": "asistencia_medica",
+      "nombre": "Días complementarios de internación",
+      "descripcion": "Cantidad de días adicionales cubiertos por internación.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "medica_medicamentos_amb",
+      "tipo_cobertura": "medica",
+      "categoria": "asistencia_medica",
+      "nombre": "Medicamentos ambulatorios",
+      "descripcion": "Cobertura de medicamentos ambulatorios con límite según plan.",
+      "inclusion": "Incluido",
+      "valor_completo": "Incluido",
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": "Medicamentos",
+      "limites": [],
+      "condiciones": [
+        "Reintegro de gastos de medicamentos autorizados presentando prescripción y facturas originales.",
+        "No cubre medicamentos para enfermedades preexistentes ni problemas psicológicos o emocionales."
+      ],
+      "upgrades_ids": [],
+      "fuente": "Ambos",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "medica_medicamentos_hosp",
+      "tipo_cobertura": "medica",
+      "categoria": "asistencia_medica",
+      "nombre": "Medicamentos por hospitalización",
+      "descripcion": "Cobertura de medicamentos durante hospitalización.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "medica_odontologia_urgencia",
+      "tipo_cobertura": "medica",
+      "categoria": "asistencia_medica",
+      "nombre": "Emergencia dental u odontología de urgencia",
+      "descripcion": "Cobertura odontológica o dental de urgencia por trauma, accidente, infección o dolor, según condiciones del plan.",
+      "inclusion": "Incluido",
+      "valor_completo": "USD 750",
+      "tipo_valor": "USD",
+      "valor": 750,
+      "medida": "USD",
+      "alcance": "Odontología de Urgencia",
+      "limites": [
+        {
+          "descripcion": "Monto máximo USD 750"
+        }
+      ],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": "Ambos",
+      "exclusiones": [
+        "No cubre prótesis, tratamientos de endodoncia, ortodoncia ni reconstrucciones."
+      ]
+    },
+    {
+      "id_condicion": "medica_protesis_ortesis",
+      "tipo_cobertura": "medica",
+      "categoria": "asistencia_medica",
+      "nombre": "Prótesis y ortesis",
+      "descripcion": "Cobertura de prótesis y ortesis bajo tope del plan.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "medica_psicologica",
+      "tipo_cobertura": "medica",
+      "categoria": "asistencia_medica",
+      "nombre": "Asistencia psicológica",
+      "descripcion": "Cobertura o servicio de asistencia psicológica.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "medica_deporte_amateur",
+      "tipo_cobertura": "deportes",
+      "categoria": "asistencia_medica",
+      "nombre": "Deportes amateur",
+      "descripcion": "Cobertura de gastos médicos por lesiones en práctica de deportes amateur.",
+      "inclusion": "Incluido",
+      "valor_completo": "Incluido",
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": "Práctica deportiva amateur",
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": "Voucher",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "medica_crucero",
+      "tipo_cobertura": "medica",
+      "categoria": "asistencia_medica",
+      "nombre": "Asistencia médica en cruceros",
+      "descripcion": "Cobertura de gastos médicos a bordo de cruceros por enfermedad o accidente, hasta el tope indicado en el plan.",
+      "inclusion": "Incluido",
+      "valor_completo": "Incluido",
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": "Asistencia médica en cruceros en caso de enfermedad o accidente",
+      "limites": [],
+      "condiciones": [
+        "Requiere comunicación o autorización previa de la central de asistencia cuando sea posible.",
+        "Si no fue posible comunicarse, Coris exige informar dentro de las 24 horas siguientes o en el primer puerto."
+      ],
+      "upgrades_ids": [],
+      "fuente": "Voucher",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "equipos_deportivos",
+      "tipo_cobertura": "deportes",
+      "categoria": "seguros_contenidos",
+      "nombre": "Equipos deportivos",
+      "descripcion": "Reembolso por robo o pérdida cubierta de equipos deportivos durante el viaje, según disciplinas y límites del plan.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "busqueda_rescate",
+      "tipo_cobertura": "deportes",
+      "categoria": "servicios_asistencia",
+      "nombre": "Búsqueda y rescate",
+      "descripcion": "Cobertura de importes reclamados por búsqueda o rescate del beneficiario durante actividades cubiertas.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "medica_embarazo_complicaciones",
+      "tipo_cobertura": "embarazo",
+      "categoria": "asistencia_medica",
+      "nombre": "Complicaciones de embarazo",
+      "descripcion": "Cobertura de gastos médicos por complicaciones de embarazo según semana límite.",
+      "inclusion": "Incluido",
+      "valor_completo": "USD 12.000",
+      "tipo_valor": "USD",
+      "valor": 12000,
+      "medida": "USD",
+      "alcance": "Cobertura Plus para Embarazadas (h/ 32 semanas de gestación)",
+      "limites": [
+        {
+          "descripcion": "Monto máximo USD 12.000"
+        }
+      ],
+      "condiciones": [
+        "En Coris, al inicio del viaje o vigencia el embarazo no debe superar la semana 24 y la cobertura aplica hasta la semana 32.",
+        "Límite de edad observado en CCGG Coris: hasta 45 años.",
+        "Emisión del certificado o voucher en el país de residencia y origen del viaje antes del inicio del viaje.",
+        "Embarazo no debe superar la semana 24 al inicio del viaje o vigencia del voucher.",
+        "Cobertura hasta la semana 32 de embarazo.",
+        "Edad máxima de la titular 45 años al inicio del viaje o vigencia del voucher.",
+        "Autorización previa telefónica a la Central de Asistencia para cada asistencia.",
+        "Coris Asistencia al Viajero puede requerir documentación que demuestre el momento del embarazo.",
+        "Hasta 32 semanas de gestación"
+      ],
+      "upgrades_ids": [],
+      "fuente": "Ambos",
+      "exclusiones": [
+        "Controles ambulatorios vinculados al curso normal del embarazo, consultas médicas y estudios relacionados con partos o cesáreas en embarazo en término.",
+        "Abortos provocados.",
+        "Gastos médicos y de cualquier tipo relacionados con el infante recién nacido, incluyendo cuidados y alimentación.",
+        "Diagnóstico, control, seguimiento y tratamiento del embarazo, parto, abortos provocados y sus consecuencias, salvo que sean producto de un accidente."
+      ]
+    },
+    {
+      "id_condicion": "asistencia_veterinaria",
+      "tipo_cobertura": "veterinaria",
+      "categoria": "mascotas",
+      "nombre": "Asistencia u orientación veterinaria",
+      "descripcion": "Reintegro de gastos veterinarios de emergencia u orientación veterinaria para mascota durante el viaje.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [
+        "La mascota debe tener al menos 4 meses y no más de 8 años.",
+        "Incluye dentro del mismo tope los medicamentos para mascotas y, cuando corresponda, eutanasia o cremación."
+      ],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "hotel_convalecencia",
+      "tipo_cobertura": "hotel_convalecencia",
+      "categoria": "asistencia_medica",
+      "nombre": "Hotel por convalecencia",
+      "descripcion": "Cobertura de alojamiento por convalecencia con límite total y/o diario.",
+      "inclusion": "Incluido",
+      "valor_completo": "USD 600",
+      "tipo_valor": "USD",
+      "valor": 600,
+      "medida": "USD",
+      "alcance": "Gastos de Hotel por Convalecencia",
+      "limites": [
+        {
+          "descripcion": "Monto máximo USD 600"
+        }
+      ],
+      "condiciones": [
+        "Debe ser prescripto y autorizado por el Departamento Médico del proveedor.",
+        "Solo cubre hospedaje simple, sin gastos de restaurante, lavandería, llamadas no autorizadas, transporte o internet.",
+        "No cubre si el certificado o voucher está vencido.",
+        "Debe ser autorizado previamente por la central de asistencia."
+      ],
+      "upgrades_ids": [],
+      "fuente": "Ambos",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "telemedicina",
+      "tipo_cobertura": "telemedicina",
+      "categoria": "asistencia_medica",
+      "nombre": "Telemedicina",
+      "descripcion": "Atención médica remota por canales habilitados del proveedor.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "salud_emocional",
+      "tipo_cobertura": "medica",
+      "categoria": "asistencia_medica",
+      "nombre": "Salud emocional",
+      "descripcion": "Servicio de apoyo para salud emocional según condiciones del producto.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "orientacion_nutricional",
+      "tipo_cobertura": "asistencia",
+      "categoria": "servicios_asistencia",
+      "nombre": "Orientación nutricional",
+      "descripcion": "Servicio de orientación nutricional telefónica o remota para asesoramiento preventivo o asociado a dolencias no urgentes.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "traslado_sanitario",
+      "tipo_cobertura": "transporte",
+      "categoria": "transporte",
+      "nombre": "Traslado sanitario",
+      "descripcion": "Coordinacion y cobertura de traslado sanitario o repatriación sanitaria.",
+      "inclusion": "Incluido",
+      "valor_completo": "Incluido",
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": "Repatriación y/o traslado Sanitario",
+      "limites": [],
+      "condiciones": [
+        "Debe ser solicitado y autorizado por el Departamento Médico del proveedor.",
+        "No cumplimiento exime al proveedor de responsabilidad."
+      ],
+      "upgrades_ids": [],
+      "fuente": "Ambos",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "repatriacion_sanitaria",
+      "tipo_cobertura": "transporte",
+      "categoria": "transporte",
+      "nombre": "Repatriación sanitaria",
+      "descripcion": "Organización y cobertura de repatriación sanitaria del beneficiario por indicación médica.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [
+        "Debe estar autorizada y justificada médicamente.",
+        "Debe ser solicitada y autorizada por el Departamento Médico del proveedor.",
+        "No se reconoce derecho si la causa está en exclusiones generales.",
+        "Cobertura cesa al regreso al aeropuerto de ingreso al país de residencia."
+      ],
+      "upgrades_ids": [],
+      "fuente": "CCGG",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "regreso_acompanante_repatriado",
+      "tipo_cobertura": "transporte",
+      "categoria": "transporte",
+      "nombre": "Regreso de acompañante del pasajero repatriado",
+      "descripcion": "Cobertura para el regreso de un acompañante cuando el beneficiario es repatriado sanitariamente.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "repatriacion_familiares",
+      "tipo_cobertura": "transporte",
+      "categoria": "transporte",
+      "nombre": "Repatriación de familiares",
+      "descripcion": "Cobertura de penalidades o desplazamiento de familiares que viajan con el beneficiario cuando este debe ser repatriado.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "repatriacion_funeraria",
+      "tipo_cobertura": "fallecimiento",
+      "categoria": "transporte",
+      "nombre": "Repatriación funeraria",
+      "descripcion": "Gestión y cobertura de repatriación o traslado funerario.",
+      "inclusion": "Incluido",
+      "valor_completo": "Incluido",
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": "Repatriación de restos",
+      "limites": [],
+      "condiciones": [
+        "Incluye gastos de féretro obligatorio para transporte aéreo, trámites administrativos y transporte de restos mortales hasta tope especificado en garantías particulares.",
+        "Cobertura de incineración y traslado de cenizas hasta aeropuerto de ingreso al país de residencia hasta tope especificado.",
+        "No cubre gastos de regreso de familiares acompañantes.",
+        "Cobertura de penalidad por cambio de fecha de billete aéreo para un familiar acompañante titular con pasaje tarifa reducida y fecha fija, previa autorización escrita."
+      ],
+      "upgrades_ids": [],
+      "fuente": "Ambos",
+      "exclusiones": [
+        "Suicidio, actos ilícitos deliberados, participación en empresa criminal, terrorismo con participación voluntaria, guerra civil o internacional, guerrilla, rebelión, sedición, motín, terrorismo con participación activa."
+      ]
+    },
+    {
+      "id_condicion": "traslado_familiar",
+      "tipo_cobertura": "familiar",
+      "categoria": "transporte",
+      "nombre": "Traslado de familiar",
+      "descripcion": "Cobertura para traslado de un familiar por contingencia del beneficiario.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [
+        "Familiar debe ser padre, madre, cónyuge, hijo o hermano y titular de certificado o voucher.",
+        "No cubre si la hospitalización está en exclusiones o si el plazo de vigencia está vencido.",
+        "Debe ser autorizado previamente por la central de asistencia.",
+        "Reembolso de billete aéreo será tarifa económica vigente y no podrá superar tope especificado en garantías particulares."
+      ],
+      "upgrades_ids": [],
+      "fuente": "CCGG",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "estadia_familiar",
+      "tipo_cobertura": "familiar",
+      "categoria": "transporte",
+      "nombre": "Estadia de familiar",
+      "descripcion": "Cobertura de gastos de alojamiento para un familiar acompaniante.",
+      "inclusion": "Incluido",
+      "valor_completo": "Tkt Aéreo + Hotel",
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": "Traslado y Gastos de Hotel de un Familiar en caso de Hospitalización",
+      "limites": [],
+      "condiciones": [
+        "Solo cubre hospedaje simple, sin gastos extras como restaurante, lavandería, llamadas no autorizadas, transporte o internet."
+      ],
+      "upgrades_ids": [],
+      "fuente": "Ambos",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "acompanamiento_menor_mayor",
+      "tipo_cobertura": "familiar",
+      "categoria": "transporte",
+      "nombre": "Acompañamiento de menor o mayor",
+      "descripcion": "Cobertura para acompañamiento de menores y/o adultos mayores.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [
+        "Debe ser constatado por el Departamento Médico del proveedor."
+      ],
+      "upgrades_ids": [],
+      "fuente": "CCGG",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "regreso_anticipado_beneficiario",
+      "tipo_cobertura": "transporte",
+      "categoria": "transporte",
+      "nombre": "Regreso anticipado del beneficiario",
+      "descripcion": "Cobertura de regreso anticipado del beneficiario por evento grave.",
+      "inclusion": "Incluido",
+      "valor_completo": "Si",
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": "Regreso Anticipado por Enfermedad o Accidente del Titular",
+      "limites": [],
+      "condiciones": [
+        "Debe haber asistencia médica autorizada por la Central de Asistencia.",
+        "El regreso anticipado debe estar autorizado y justificado por el médico tratante.",
+        "El titular debe comunicarse con la Central de Asistencia para autorización.",
+        "No aplica para eventos detallados en las exclusiones generales."
+      ],
+      "upgrades_ids": [],
+      "fuente": "Ambos",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "regreso_anticipado_fallecimiento_familiar",
+      "tipo_cobertura": "fallecimiento",
+      "categoria": "transporte",
+      "nombre": "Regreso anticipado por familiar",
+      "descripcion": "Cobertura de regreso anticipado por fallecimiento o enfermedad grave de un familiar directo.",
+      "inclusion": "Incluido",
+      "valor_completo": "Tkt Aéreo",
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": "Viaje de regreso anticipado por fallecimiento de un familiar",
+      "limites": [],
+      "condiciones": [
+        "El titular debe comunicarse con la Central de Asistencias para autorización.",
+        "No se aceptan pedidos de reembolso sin justificación posterior.",
+        "No aplica si el certificado o voucher está vencido.",
+        "El proveedor recuperará el billete de transporte original y sufragará solo la diferencia existente."
+      ],
+      "upgrades_ids": [],
+      "fuente": "Ambos",
+      "exclusiones": [
+        "No contarán con este beneficio los eventos detallados en las exclusiones generales."
+      ]
+    },
+    {
+      "id_condicion": "regreso_anticipado_siniestro_domicilio",
+      "tipo_cobertura": "transporte",
+      "categoria": "transporte",
+      "nombre": "Regreso anticipado por siniestro en domicilio",
+      "descripcion": "Cobertura de regreso anticipado por siniestro grave en el domicilio.",
+      "inclusion": "Incluido",
+      "valor_completo": "Tkt Aéreo",
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": "Regreso anticipado por siniestro en domicilio del titular",
+      "limites": [],
+      "condiciones": [
+        "Presentar denuncia policial original en la Central de Asistencias dentro de 24 horas.",
+        "El titular debe comunicarse con la Central de Asistencias para autorización.",
+        "No se aceptan pedidos de reembolso sin justificación posterior.",
+        "No aplica si el certificado o voucher está vencido."
+      ],
+      "upgrades_ids": [],
+      "fuente": "Ambos",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "mensajes_urgentes",
+      "tipo_cobertura": "asistencia",
+      "categoria": "transporte",
+      "nombre": "Transmisión de mensajes urgentes",
+      "descripcion": "Servicio de transmisión de mensajes urgentes y justificados relativos a prestaciones del viaje.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "linea_consultas",
+      "tipo_cobertura": "asistencia",
+      "categoria": "transporte",
+      "nombre": "Línea de consultas",
+      "descripcion": "Servicio de información general para el viajero sobre hoteles, clima, moneda, consulados u otros datos útiles.",
+      "inclusion": "Incluido",
+      "valor_completo": "Si",
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": "Línea de consultas",
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": "Voucher",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "asistencia_concierge",
+      "tipo_cobertura": "asistencia",
+      "categoria": "servicios_asistencia",
+      "nombre": "Asistencia Concierge",
+      "descripcion": "Servicio informativo para conseguir referencias sobre espectáculos, viajes, vehículos, teatros u otros servicios en destino.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "airhelp",
+      "tipo_cobertura": "viaje",
+      "categoria": "servicios_asistencia",
+      "nombre": "AirHelp",
+      "descripcion": "Servicio AirHelp incluido cuando el voucher lo indique.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "llamado_cortesia",
+      "tipo_cobertura": "asistencia",
+      "categoria": "servicios_asistencia",
+      "nombre": "Llamado de cortesía",
+      "descripcion": "Servicio de llamado de cortesía cuando el voucher lo indique.",
+      "inclusion": "Incluido",
+      "valor_completo": "Incluido",
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": "Llamado de cortesía",
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": "Voucher",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "linea_consultas_24h",
+      "tipo_cobertura": "asistencia",
+      "categoria": "transporte",
+      "nombre": "Línea de consultas y asistencias especiales 24h",
+      "descripcion": "Servicio de consultas especiales 24 horas, incluyendo información de destino, documentación y orientación médica informativa.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "compensacion_vuelo_demorado_cancelado",
+      "tipo_cobertura": "transporte",
+      "categoria": "transporte",
+      "nombre": "Vuelo demorado o cancelado",
+      "descripcion": "Compensación por demoras o cancelaciones de vuelo según condiciones.",
+      "inclusion": "Incluido",
+      "valor_completo": "USD 500",
+      "tipo_valor": "USD",
+      "valor": 500,
+      "medida": "USD",
+      "alcance": "Gastos por vuelo demorado",
+      "limites": [
+        {
+          "descripcion": "Monto máximo USD 500"
+        }
+      ],
+      "condiciones": [
+        "Comunicación previa con la Central de Asistencias antes de abandonar el aeropuerto.",
+        "Presentar comprobantes originales y certificado de la aerolínea.",
+        "Gastos limitados a hospedaje simple sin extras.",
+        "No aplica para vuelos chárter, billetes sujetos a disponibilidad ni destinos dentro del país de emisión.",
+        "No aplica si la demora es por causas de fuerza mayor o circunstancias excepcionales."
+      ],
+      "upgrades_ids": [],
+      "fuente": "Ambos",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "salas_vip_demora_vuelo",
+      "tipo_cobertura": "viaje",
+      "categoria": "otros_beneficios",
+      "nombre": "Salas VIP por demora o cancelación de vuelo",
+      "descripcion": "Acceso o reintegro de gastos de salas VIP cuando un vuelo internacional se demora o cancela por el plazo indicado en el plan.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "repatriacion_quiebra_aerea",
+      "tipo_cobertura": "transporte",
+      "categoria": "transporte",
+      "nombre": "Repatriación por quiebra de aerolínea",
+      "descripcion": "Cobertura de repatriación por insolvencia o quiebra de compañía aérea.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "repatriacion_administrativa",
+      "tipo_cobertura": "transporte",
+      "categoria": "transporte",
+      "nombre": "Repatriación administrativa",
+      "descripcion": "Reintegro por penalidades de servicios no disfrutados cuando el beneficiario no es admitido por autoridades locales y debe ser repatriado.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "perdida_vuelo",
+      "tipo_cobertura": "transporte",
+      "categoria": "transporte",
+      "nombre": "Pérdida de vuelo",
+      "descripcion": "Compensación por pérdida de vuelo por causas cubiertas.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "perdida_conexiones",
+      "tipo_cobertura": "transporte",
+      "categoria": "transporte",
+      "nombre": "Pérdida de conexiones",
+      "descripcion": "Reembolso por penalidades, nuevos tickets, alimentación, llamadas u hotel ante pérdida de conexión de vuelos por causas imputables a la compañía aérea.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "seguimiento_viaje_crucero",
+      "tipo_cobertura": "transporte",
+      "categoria": "crucero",
+      "nombre": "Seguimiento de viaje / crucero",
+      "descripcion": "Billete aéreo para alcanzar el siguiente puerto de parada cuando se pierde la salida del crucero por demora del vuelo de conexión.",
+      "inclusion": null,
+      "valor_completo": "Se sufragará un billete de avión en clase turista, de ida solamente, desde el puerto de embarque hasta el próximo puerto de parada del crucero contratado si se perdió la salida inicialmente prevista por retraso del vuelo de conexión mayor a 6 horas.",
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [
+        "En CCGG Coris aplica por retraso del vuelo de conexión mayor a 6 horas.",
+        "Aplica sujeto a exclusiones detalladas en las Condiciones Generales."
+      ],
+      "upgrades_ids": [],
+      "fuente": "CCGG",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "sustitucion_ejecutivo",
+      "tipo_cobertura": "transporte",
+      "categoria": "transporte",
+      "nombre": "Sustitución de ejecutivo",
+      "descripcion": "Cobertura de traslado y alojamiento para reemplazo de ejecutivo.",
+      "inclusion": null,
+      "valor_completo": "Pasaje en clase turista para sustituto y gastos de hotel hasta 80 dólares diarios durante cinco días, sujeto a disponibilidad y autorización previa.",
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [
+        {
+          "descripcion": "Máximo 80 dólares diarios para hotel"
+        },
+        {
+          "descripcion": "Máximo 5 días de cobertura para hotel"
+        }
+      ],
+      "condiciones": [
+        "El titular debe comunicar a la Central de Asistencias dentro de las 24 horas del evento",
+        "Debe haber autorización expresa previa",
+        "Gastos de hotel limitados exclusivamente a hospedaje simple, sin incluir restaurante, lavandería, llamadas telefónicas no a la Central, transportes, acceso a Internet u otros gastos"
+      ],
+      "upgrades_ids": [],
+      "fuente": "CCGG",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "transferencia_fondos_fianza",
+      "tipo_cobertura": "legal",
+      "categoria": "transporte",
+      "nombre": "Adelanto para fianza",
+      "descripcion": "Adelanto o gestión de fondos para fianza legal por proceso derivado de accidente.",
+      "inclusion": "Incluido",
+      "valor_completo": "USD 10.000",
+      "tipo_valor": "USD",
+      "valor": 10000,
+      "medida": "USD",
+      "alcance": "Transferencia de fondos para fianza penal",
+      "limites": [
+        {
+          "descripcion": "Monto máximo USD 10.000"
+        }
+      ],
+      "condiciones": [
+        "Presentación de denuncia policial y previo depósito en la oficina de la compañía",
+        "Servicio brindado una sola vez por período de validez del certificado o voucher",
+        "Sujeto a regulaciones legales del país emisor respecto a transferencias y cambio de divisas"
+      ],
+      "upgrades_ids": [],
+      "fuente": "Ambos",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "transferencia_fondos_urgencia",
+      "tipo_cobertura": "legal",
+      "categoria": "transporte",
+      "nombre": "Transferencia de fondos en caso de urgencia",
+      "descripcion": "Gestión de transferencia de fondos por emergencia justificada durante el viaje.",
+      "inclusion": "Incluido",
+      "valor_completo": "USD 5.000",
+      "tipo_valor": "USD",
+      "valor": 5000,
+      "medida": "USD",
+      "alcance": "Transferencia de Fondos",
+      "limites": [
+        {
+          "descripcion": "Monto máximo USD 5.000"
+        }
+      ],
+      "condiciones": [
+        "Servicio brindado una sola vez por período de validez del certificado o voucher",
+        "Sujeto a regulaciones legales del país emisor respecto a transferencias y cambio de divisas"
+      ],
+      "upgrades_ids": [],
+      "fuente": "Ambos",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "asistencia_legal_transito",
+      "tipo_cobertura": "legal",
+      "categoria": "transporte",
+      "nombre": "Asistencia legal por tránsito",
+      "descripcion": "Cobertura de asistencia legal derivada de accidente de tránsito.",
+      "inclusion": "Incluido",
+      "valor_completo": "USD 3.000",
+      "tipo_valor": "USD",
+      "valor": 3000,
+      "medida": "USD",
+      "alcance": "Asistencia legal por accidente de tránsito",
+      "limites": [
+        {
+          "descripcion": "Monto máximo USD 3.000"
+        }
+      ],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": "Voucher",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "orientacion_juridica",
+      "tipo_cobertura": "legal",
+      "categoria": "servicios_asistencia",
+      "nombre": "Orientación jurídica",
+      "descripcion": "Orientación legal telefónica para ubicar asesoría local o instancias de reclamo durante el viaje.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "asistencia_documentos_robados",
+      "tipo_cobertura": "documentos",
+      "categoria": "transporte",
+      "nombre": "Documentos robados o extraviados",
+      "descripcion": "Soporte en caso de robo o extravío de documentación de viaje.",
+      "inclusion": "Incluido",
+      "valor_completo": "Si",
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": "Localización y asistencia en caso de extravío de documentos",
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": "Voucher",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "robo_perdida_pasaporte",
+      "tipo_cobertura": "documentos",
+      "categoria": "documentos",
+      "nombre": "Robo o pérdida de pasaporte",
+      "descripcion": "Reintegro o asistencia específica por robo o pérdida de pasaporte durante el viaje, según tope del voucher.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "wallet_assistance",
+      "tipo_cobertura": "documentos",
+      "categoria": "transporte",
+      "nombre": "Wallet Assistance",
+      "descripcion": "Asistencia y eventual reembolso de trámites por robo o pérdida de billetera, tarjetas o documentación personal.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "bolso_protegido",
+      "tipo_cobertura": "objetos_personales",
+      "categoria": "seguros_contenidos",
+      "nombre": "Bolso protegido",
+      "descripcion": "Cobertura por robo para reposición de bienes personales cubiertos durante el viaje.",
+      "inclusion": null,
+      "valor_completo": "Cobertura por robo de bienes personales hasta USD 1,000 con sublímites específicos para dinero en efectivo, bolso, celular, elementos de escritura, anteojos, billetera y documentos.",
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [
+        "En vouchers Coris puede ser excluyente para menores de 14 años.",
+        "No complementa pagos de la cobertura de equipos electrónicos.",
+        "Cobertura excluye pagos efectuados en concepto de equipos electrónicos",
+        "Solo se cubre la reposición de una única unidad por producto",
+        "Denuncia inmediata a autoridades competentes con denuncia policial",
+        "Cooperación en identificación de ladrones y aviso inmediato al asegurador en caso de recuperación",
+        "Bienes no deben ser dejados a la vista en vehículos sin custodia",
+        "Bienes deben estar bajo custodia directa del portador en transporte aéreo, fluvial, marítimo, automotor o ferroviario",
+        "Denuncia a la central de asistencia dentro de las 72 horas hábiles desde el siniestro",
+        "Para equipos electrónicos adquiridos durante el viaje se debe presentar factura o ticket de compra",
+        "Para equipos electrónicos adquiridos antes del viaje se debe presentar declaración jurada ante aduana o factura comprobante"
+      ],
+      "upgrades_ids": [],
+      "fuente": "CCGG",
+      "exclusiones": [
+        "Hurto, extravío y daños",
+        "Bienes sin custodia personal directa en vehículo salvo que estén en el baúl",
+        "Menores de 14 años salvo pacto en contrario",
+        "Extravíos, faltantes por inventarios, estafas, extorsiones, defraudaciones, abusos de confianza o actos de infidelidad salvo cometidos por personal de servicio doméstico en vivienda particular"
+      ]
+    },
+    {
+      "id_condicion": "electronicos_protegidos",
+      "tipo_cobertura": "objetos_personales",
+      "categoria": "seguros_contenidos",
+      "nombre": "Electrónicos protegidos",
+      "descripcion": "Cobertura por robo para reposición de equipos electrónicos cubiertos durante el viaje.",
+      "inclusion": "Incluido",
+      "valor_completo": "USD 1.400",
+      "tipo_valor": "USD",
+      "valor": 1400,
+      "medida": "USD",
+      "alcance": "Electrónicos protegidos (excluyente para menores de 14 años)",
+      "limites": [
+        {
+          "descripcion": "Monto máximo USD 1.400"
+        }
+      ],
+      "condiciones": [
+        "En vouchers Coris puede ser excluyente para menores de 14 años.",
+        "No complementa pagos de la cobertura de bolso protegido.",
+        "Solo se cubre la reposición de una única unidad por producto",
+        "Indemnizaciones pagadas en pesos chilenos al tipo de cambio oficial en país de origen",
+        "No complementa pagos efectuados en concepto de bolso protegido",
+        "Denuncia inmediata a autoridades competentes con denuncia policial",
+        "Cooperación en identificación de ladrones y aviso inmediato al asegurador en caso de recuperación",
+        "Bienes no deben ser dejados a la vista en vehículos sin custodia",
+        "Bienes deben estar bajo custodia directa del portador en transporte aéreo, fluvial, marítimo, automotor o ferroviario",
+        "Denuncia a la central de asistencia dentro de las 72 horas hábiles desde el siniestro",
+        "Para equipos electrónicos adquiridos durante el viaje se debe presentar factura o ticket de compra",
+        "Para equipos electrónicos adquiridos antes del viaje se debe presentar declaración jurada ante aduana o factura comprobante",
+        "Excluyente para menores de 14 años"
+      ],
+      "upgrades_ids": [],
+      "fuente": "Ambos",
+      "exclusiones": [
+        "Hurto, extravío y daños",
+        "Bienes sin custodia personal directa en vehículo salvo que estén en el baúl",
+        "Menores de 14 años salvo pacto en contrario",
+        "Extravíos, faltantes por inventarios, estafas, extorsiones, defraudaciones, abusos de confianza o actos de infidelidad salvo cometidos por personal de servicio doméstico en vivienda particular"
+      ]
+    },
+    {
+      "id_condicion": "compra_protegida",
+      "tipo_cobertura": "objetos_personales",
+      "categoria": "seguros_contenidos",
+      "nombre": "Compra protegida",
+      "descripcion": "Reembolso por robo de compras efectuadas en destino durante el viaje, bajo límites y condiciones del plan.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "alquiler_notebook",
+      "tipo_cobertura": "equipos",
+      "categoria": "transporte",
+      "nombre": "Alquiler de notebook",
+      "descripcion": "Reembolso por alquiler de notebook o equipo similar en caso de robo o rotura durante el viaje.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "traduccion_documentos_comerciales",
+      "tipo_cobertura": "asistencia",
+      "categoria": "transporte",
+      "nombre": "Traducción de documentos comerciales",
+      "descripcion": "Cobertura o gestión de traducción de documentos comerciales bajo límite de palabras del plan.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "servicio_traductor",
+      "tipo_cobertura": "asistencia",
+      "categoria": "servicios_asistencia",
+      "nombre": "Servicio de traductor",
+      "descripcion": "Servicio telefónico de intérprete o traductor ante imprevistos durante el viaje.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "localizacion_equipaje",
+      "tipo_cobertura": "equipaje",
+      "categoria": "equipaje",
+      "nombre": "Localización de equipaje",
+      "descripcion": "Asistencia para localizar equipaje extraviado.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [
+        "El servicio es de asistencia y asesoramiento, no incluye costos de gestión y traslados en caso de pérdida o hurto de documentación."
+      ],
+      "upgrades_ids": [],
+      "fuente": "CCGG",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "compensacion_dano_equipaje",
+      "tipo_cobertura": "equipaje",
+      "categoria": "equipaje",
+      "nombre": "Equipaje protegido por daño o rotura",
+      "descripcion": "Compensación por daño de equipaje según límites del plan.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "compensacion_demora_equipaje",
+      "tipo_cobertura": "equipaje",
+      "categoria": "equipaje",
+      "nombre": "Equipaje protegido por demora o devolución tardía",
+      "descripcion": "Compensación por demora en entrega/devolución de equipaje.",
+      "inclusion": "Incluido",
+      "valor_completo": "USD 600 ( 6 Hs )",
+      "tipo_valor": "USD",
+      "valor": 600,
+      "medida": "USD",
+      "alcance": "Compensación de gastos de 1era. necesidad por demora entrega equipaje",
+      "limites": [
+        {
+          "descripcion": "Monto máximo USD 600"
+        }
+      ],
+      "condiciones": [
+        "Denuncia a la Central de Asistencia dentro de las primeras 6 horas y nuevamente a las 36 horas desde la llegada del vuelo",
+        "Presentar constancia del día y hora de entrega del equipaje por la línea aérea",
+        "No aplica si el titular viaja con billete sujeto a disponibilidad de espacio",
+        "No aplica para destinos dentro del mismo país de emisión del certificado o voucher ni en destino final del viaje",
+        "Solo cubre efectos básicos de vestuario e higiene personal, excluye artículos de lujo, electrónicos y valijas",
+        "Importe pagado por este beneficio se deduce de la compensación por pérdida definitiva",
+        "Demora mínima 6 horas"
+      ],
+      "upgrades_ids": [],
+      "fuente": "Ambos",
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "compensacion_perdida_equipaje",
+      "tipo_cobertura": "equipaje",
+      "categoria": "equipaje",
+      "nombre": "Equipaje protegido por pérdida",
+      "descripcion": "Compensación por pérdida total y definitiva de equipaje.",
+      "inclusion": "Incluido",
+      "valor_completo": "USD 1.500",
+      "tipo_valor": "USD",
+      "valor": 1500,
+      "medida": "USD",
+      "alcance": "Compensación por perdida de equipaje ( no aplica transporte terrestre )",
+      "limites": [
+        {
+          "descripcion": "Monto máximo USD 1.500"
+        }
+      ],
+      "condiciones": [
+        "Notificación a la Central de Asistencia antes de abandonar el aeropuerto con formulario de denuncia (P.I.R. o similar)",
+        "Equipaje debe haber sido despachado en bodega del mismo vuelo o crucero",
+        "Pérdida ocurrida entre entrega al personal autorizado y devolución al pasajero",
+        "La línea aérea o marítima debe haberse hecho cargo y abonado indemnización",
+        "En caso de opción entre dinero o pasajes, se paga compensación económica tras elección",
+        "Solo se reconoce una compensación complementaria por viaje",
+        "Reembolso pagado en país de origen en un plazo máximo de 30 días",
+        "No aplica para transporte terrestre"
+      ],
+      "upgrades_ids": [],
+      "fuente": "Ambos",
+      "exclusiones": [
+        "Titular miembro de tripulación del medio de transporte",
+        "Retención o aprehensión por aduanas u otras autoridades",
+        "No aplica para funcionarios o empleados de la tripulación"
+      ]
+    },
+    {
+      "id_condicion": "cancelacion_multicausa",
+      "tipo_cobertura": "cancelacion",
+      "categoria": "otros_beneficios",
+      "nombre": "Cancelación, reprogramación e interrupción de viaje",
+      "descripcion": "Cobertura de gastos por cancelación, reprogramación o interrupción de viaje bajo las causas y modalidad indicadas por el plan.",
+      "inclusion": "Incluido",
+      "valor_completo": "USD 1.000 Multicausa",
+      "tipo_valor": "USD",
+      "valor": 1000,
+      "medida": "USD",
+      "alcance": "Reembolso de gastos de cancelación de viaje (Hasta 85 años)",
+      "limites": [
+        {
+          "descripcion": "Monto máximo USD 1.000"
+        }
+      ],
+      "condiciones": [
+        "La cancelación debe realizarse en agencia de viajes u operador turístico y llamar a la Central de Asistencia máximo 24 horas antes de la salida coincidente con inicio de vigencia del voucher.",
+        "El titular debe estar en el país de origen para aplicar la cobertura.",
+        "Se aplican deducibles: 10% para causales 12 a 17 y 25% para causal 18.",
+        "La cobertura no es acumulativa con el servicio de asistencia detallado del producto.",
+        "Vigencia máxima de cancelación y reprogramación 12 meses desde emisión del certificado.",
+        "Vigencia máxima de interrupción 18 meses desde compra hasta llegada al puerto de residencia.",
+        "Válido hasta 85 años"
+      ],
+      "upgrades_ids": [],
+      "fuente": "Ambos",
+      "exclusiones": [
+        "No cubre eventos detallados en exclusiones generales.",
+        "No aplica para cancelación por voluntad propia sin causa justificada en interrupción de viaje."
+      ]
+    },
+    {
+      "id_condicion": "cancelacion_ticket_aereo",
+      "tipo_cobertura": "cancelacion",
+      "categoria": "otros_beneficios",
+      "nombre": "Cancelación de ticket aéreo",
+      "descripcion": "Reembolso o penalidad por cancelación de ticket aéreo bajo las causas y límites indicados por el plan.",
+      "inclusion": null,
+      "valor_completo": null,
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [],
+      "upgrades_ids": [],
+      "fuente": null,
+      "exclusiones": []
+    },
+    {
+      "id_condicion": "cancelacion_multicausa_evento_multiple",
+      "tipo_cobertura": "cancelacion",
+      "categoria": "otros_beneficios",
+      "nombre": "Cancelación de viaje por evento múltiple",
+      "descripcion": "Monto máximo de cancelación/interrupción asociado a eventos múltiples.",
+      "inclusion": null,
+      "valor_completo": "La suma asegurada es por Titular. En caso de un evento que involucre a más de un Titular, la responsabilidad máxima global por el mismo siniestro es de USD 10.000. Si la suma de indemnizaciones supera este monto, se abonará a prorrata.",
+      "tipo_valor": null,
+      "valor": null,
+      "medida": null,
+      "alcance": null,
+      "limites": [],
+      "condiciones": [
+        "La pretensión solicitada debe efectuarse dentro de los 120 días de ocurrido el evento."
+      ],
+      "upgrades_ids": [],
+      "fuente": "CCGG",
+      "exclusiones": []
+    }
+  ]
+}
