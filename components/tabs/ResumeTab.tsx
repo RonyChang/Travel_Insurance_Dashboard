@@ -12,12 +12,14 @@ interface ResumeTabProps {
 type CoverageDefinition = {
   label: string;
   patterns: string[];
+  fallbackPatterns?: string[];
 };
 
 const primaryCoverageDefinitions: CoverageDefinition[] = [
   {
     label: "Asistencia médica",
-    patterns: ["tope maximo global medico", "monto maximo global medico", "asistencia medica por enfermedad", "asistencia medica"],
+    patterns: ["tope maximo global medico", "monto maximo global medico"],
+    fallbackPatterns: ["asistencia medica por enfermedad", "medica enfermedad no preexistente"],
   },
   {
     label: "Equipaje",
@@ -49,9 +51,44 @@ function normalize(value: unknown): string {
 }
 
 function findPrimaryCoverage(coverages: Cobertura[], definition: CoverageDefinition): Cobertura | null {
-  for (const pattern of definition.patterns) {
+  const primaryCoverage = findCoverageByPatterns(coverages, definition.patterns);
+  if (!primaryCoverage || isIncluded(primaryCoverage.inclusion) || !definition.fallbackPatterns) {
+    return primaryCoverage;
+  }
+
+  return findIncludedCoverageByPatterns(coverages, definition.fallbackPatterns) || primaryCoverage;
+}
+
+function findCoverageByPatterns(coverages: Cobertura[], patterns: string[]): Cobertura | null {
+  for (const pattern of patterns) {
     const normalizedPattern = normalize(pattern);
     const match = coverages.find((coverage) => {
+      const haystack = [
+        getCoverageId(coverage),
+        coverage.nombre,
+        coverage.categoria,
+        coverage.tipo_cobertura || coverage.tipo,
+        coverage.descripcion,
+        coverage.alcance,
+      ]
+        .map(normalize)
+        .join(" ");
+
+      return haystack.includes(normalizedPattern);
+    });
+
+    if (match) return match;
+  }
+
+  return null;
+}
+
+function findIncludedCoverageByPatterns(coverages: Cobertura[], patterns: string[]): Cobertura | null {
+  for (const pattern of patterns) {
+    const normalizedPattern = normalize(pattern);
+    const match = coverages.find((coverage) => {
+      if (!isIncluded(coverage.inclusion)) return false;
+
       const haystack = [
         getCoverageId(coverage),
         coverage.nombre,
