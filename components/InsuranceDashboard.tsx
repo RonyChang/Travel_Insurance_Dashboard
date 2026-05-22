@@ -3,6 +3,7 @@
 import { useMemo, useState } from "react";
 import { ShieldCheck } from "lucide-react";
 import ProductList from "@/components/ProductList";
+import CompareTab from "@/components/tabs/CompareTab";
 import CoverageTab from "@/components/tabs/CoverageTab";
 import ExclusionsTab from "@/components/tabs/ExclusionsTab";
 import JsonTab from "@/components/tabs/JsonTab";
@@ -11,7 +12,7 @@ import UpgradesTab from "@/components/tabs/UpgradesTab";
 import { getProductName, getQuickMetrics, safeText } from "@/lib/insurance-utils";
 import { InsuranceProduct } from "@/lib/types";
 
-type TabType = "resumen" | "coberturas" | "exclusiones" | "upgrades" | "json";
+type TabType = "resumen" | "comparar" | "coberturas" | "exclusiones" | "upgrades" | "json";
 
 interface InsuranceDashboardProps {
   products: InsuranceProduct[];
@@ -21,6 +22,7 @@ interface InsuranceDashboardProps {
 
 const tabsList: { id: TabType; label: string }[] = [
   { id: "resumen", label: "Resumen" },
+  { id: "comparar", label: "Comparar" },
   { id: "coberturas", label: "Coberturas" },
   { id: "exclusiones", label: "Exclusiones" },
   { id: "upgrades", label: "Upgrades" },
@@ -108,6 +110,7 @@ export default function InsuranceDashboard({ products, selectedProduct, onSelect
           {selectedProduct ? (
             <>
               {activeTab === "resumen" && <ResumeTab product={selectedProduct} />}
+              {activeTab === "comparar" && <CompareTab products={products} selectedProduct={selectedProduct} />}
               {activeTab === "coberturas" && <CoverageTab product={selectedProduct} />}
               {activeTab === "exclusiones" && <ExclusionsTab product={selectedProduct} />}
               {activeTab === "upgrades" && <UpgradesTab product={selectedProduct} />}

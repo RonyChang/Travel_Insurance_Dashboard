@@ -6,9 +6,36 @@ import './globals.css'
 const geist = Geist({ subsets: ["latin"], variable: "--font-geist-sans" });
 const geistMono = Geist_Mono({ subsets: ["latin"], variable: "--font-geist-mono" });
 
+const siteUrl = "https://travel-insurance-dashboard.onrender.com";
+
 export const metadata: Metadata = {
+  metadataBase: new URL(siteUrl),
   title: 'Compara Travel Insurance Dashboard',
-  description: 'Dashboard para revisar configuraciones JSON de seguros de viaje',
+  description: 'Dashboard para comparar y revisar coberturas, exclusiones y upgrades de seguros de viaje.',
+  alternates: {
+    canonical: '/',
+  },
+  openGraph: {
+    title: 'Compara Travel Insurance Dashboard',
+    description: 'Compara coberturas, exclusiones y upgrades de seguros de viaje.',
+    url: '/',
+    siteName: 'Compara Travel Insurance Dashboard',
+    locale: 'es_PE',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary',
+    title: 'Compara Travel Insurance Dashboard',
+    description: 'Compara coberturas, exclusiones y upgrades de seguros de viaje.',
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+    },
+  },
   icons: {
     icon: [
       {
